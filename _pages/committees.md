@@ -9,10 +9,10 @@ header:
   overlay_image: /assets/images/title_wordcloud.png
 ---
 
-Workshop on Human Evaluation in NLP 
+## Workshop on Human Evaluation in NLP 
 
 
-## Organisers
+### Organisers
 
 Anya Belz, University of Brighton, UK\
 Shubham Agarwal, Heriot Watt University, UK\
@@ -20,7 +20,7 @@ Yvette Graham, Trinity College Dublin, Ireland\
 Ehud Reiter, University of Aberdeen, UK\
 Anastasia Shimorina, Université de Lorraine / LORIA, Nancy, France
 
-## Programme Committee
+### Programme Committee
 
 Mohit Bansal, UNC Chapel Hill, US\
 Saad Mahamood, Trivago, DE\
