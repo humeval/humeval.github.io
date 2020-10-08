@@ -9,9 +9,13 @@ header:
   overlay_image: /assets/images/bc.png
 ---
 
-The 1st Workshop on Human Evaluation in NLP will be held online, virtually. 
+Workshop on Human Evaluation in NLP 
 
 
 ## Organisers
 
-tba
+Anya Belz, University of Brighton, UK
+Shubham Agarwal, Heriot Watt University, UK
+Yvette Graham, Trinity College Dublin, Ireland
+Ehud Reiter, University of Aberdeen, UK
+Anastasia Shimorina, Université de Lorraine / LORIA, Nancy, France
