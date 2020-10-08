@@ -18,7 +18,7 @@ Anya Belz, University of Brighton, UK\
 Shubham Agarwal, Heriot Watt University, UK\
 Yvette Graham, Trinity College Dublin, Ireland\
 Ehud Reiter, University of Aberdeen, UK\
-Anastasia Shimorina, Université de Lorraine / LORIA, Nancy, France\
+Anastasia Shimorina, Université de Lorraine / LORIA, Nancy, France
 
 ## Programme Committee
 
@@ -52,4 +52,4 @@ Chris van der Lee, Tilburg University, NL\
 Lucia Specia, UCL, UK\
 Nelson Liu, Washington University, US\
 Wei Zhao, TU Darmstadt, DE\
-Qun Liu, Huawei Noah’s Ark Lab, China\
+Qun Liu, Huawei Noah’s Ark Lab, China
