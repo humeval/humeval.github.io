@@ -47,4 +47,4 @@ In addition to the general track for technical papers, there will be discussion 
 ### Invited Speakers
 
 Margaret Mitchell, Google AI Ethics Team, US\
-Lucia Specia, University College London, UK \
+Lucia Specia, University College London, UK 
