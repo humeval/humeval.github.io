@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "HumEval"
+excerpt: "HumEval 2021"
 layout: single
 classes: wide
 header:
