@@ -44,3 +44,7 @@ We welcome work on the above topics and more from any subfield of NLP (and ML/AI
 In addition to the general track for technical papers, there will be discussion and poster sessions, and a special Shared Task Proposals track.
 
 
+### Invited Speakers
+
+Margaret Mitchell, Google AI Ethics Team, US\
+Lucia Specia, University College London, UK \
