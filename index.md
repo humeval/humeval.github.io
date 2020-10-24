@@ -15,9 +15,9 @@ header:
 ### Invited Speakers
 
 
-![Mohit Bansal](/assets/images/bansal.png) | ![Margaret Mitchell](/assets/images/mitchell.png) | ![Lucia Specia](/assets/images/specia.png) 
--------------------------------------------|---------------------------------------------------|-------------------------------------------
-Mohit Bansal, UNC Chapel Hill              | Margaret Mitchell, Google AI Ethics Team          | Lucia Specia, Imperial College London
+![Mohit Bansal](/assets/images/bansal.png) | ![Margaret Mitchell](/assets/images/mitchell.png) | ![Lucia Specia](/assets/images/specia.png)
+:-----------------------------------------:|:-------------------------------------------------:|:------------------------------------------:
+Mohit Bansal, UNC Chapel Hill              | Margaret Mitchell, Google AI Ethics Team          | Lucia Specia, Imperial College London     
 
 
 ### Workshop Topic and Content
