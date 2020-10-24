@@ -12,6 +12,14 @@ header:
 
 ## Workshop on Human Evaluation in NLP
 
+### Invited Speakers
+
+
+![Mohit Bansal](/assets/images/bansal.png) | ![Margaret Mitchell](/assets/images/mitchell.png) | ![Lucia Specia](/assets/images/specia.png) 
+-------------------------------------------|---------------------------------------------------|-------------------------------------------
+Mohit Bansal, UNC Chapel Hill              | Margaret Mitchell, Google AI Ethics Team          | Lucia Specia, Imperial College London
+
+
 ### Workshop Topic and Content
 
 Human evaluation plays a central role in NLP, from the large-scale crowd-sourced evaluations carried out e.g. by the WMT workshops, to the much smaller experiments routinely encountered in conference papers. Moreover, while NLP embraced automatic evaluation metrics from BLEU (Papineni et al, 2001) onwards, the field has always been acutely aware of their limitations (Callison-Burch et al., 2006; Reiter and Belz, 2009; Novikova et al., 2017; Reiter, 2018), and has gauged their trustworthiness in terms of how well, and how consistently, they correlate with human evaluation scores (Over et al., 2007; Gatt and Belz, 2008; Bojar et al., 2016; Shimorina, 2018; Ma et al., 2019; Mille et al., 2019; Dušek et al., 2020). 
@@ -44,8 +52,4 @@ We welcome work on the above topics and more from any subfield of NLP (and ML/AI
 In addition to the general track for technical papers, there will be discussion and poster sessions, and a special Shared Task Proposals track.
 
 
-### Invited Speakers
 
-Mohit Bansal, UNC Chapel Hill, US\
-Margaret Mitchell, Google AI Ethics Team, US\
-Lucia Specia, University College London, UK 
