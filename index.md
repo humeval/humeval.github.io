@@ -46,5 +46,6 @@ In addition to the general track for technical papers, there will be discussion 
 
 ### Invited Speakers
 
+Mohit Bansal, UNC Chapel Hill, US\
 Margaret Mitchell, Google AI Ethics Team, US\
 Lucia Specia, University College London, UK 
