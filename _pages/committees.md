@@ -23,33 +23,34 @@ Anastasia Shimorina, Université de Lorraine / LORIA, Nancy, France
 ### Programme Committee
 
 Mohit Bansal, UNC Chapel Hill, US\
-Saad Mahamood, Trivago, DE\
-Kevin B. Cohen, University of Colorado, US\
-Nitika Mathur, University of Melbourne, Australia\
-Kees van Deemter, Utrecht University, NL\
-Margot Mieskes, UAS Darmstadt, DE\
-Ondrej Dusek, Charles University, Czechia\
-Emiel van Miltenburg, Tilburg University, NL\
-Karën Fort, Sorbonne University, France\
-Margaret Mitchell, Google, US\
-Anette Frank, University of Heidelberg, DE\
-Mathias Mueller, University of Zurich, CH\
-Claire Gardent, CNRS/LORIA Nancy, France\
-Malvina Nissim, Groningen University, NL\
-Albert Gatt, Malta University, Malta\
-Juri Opitz, University of Heidelberg, DE\
-Dimitra Gkatzia, Edinburgh Napier University, UK\
-Ramakanth Pasunuru, UNC Chapel Hill, US\
-Helen Hastie, Heriot-Watt University, UK\
-Maxime Peyrard, EPFL, CH\
-David Howcroft, Heriot Watt University, UK\
-Inioluwa Deborah Raji, Ai Now Institute, US\
 Jackie Chi Kit Cheung, McGill University, Canada\
-Verena Rieser, Heriot Watt University, UK\
+Kevin B. Cohen, University of Colorado, US\
+Kees van Deemter, Utrecht University, NL\
+Ondrej Dusek, Charles University, Czechia\
+Christian Federmann, Microsoft MSR, US\
+Karën Fort, Sorbonne University, France\
+Anette Frank, University of Heidelberg, DE\
+Claire Gardent, CNRS/LORIA Nancy, France\
+Albert Gatt, Malta University, Malta\
+Dimitra Gkatzia, Edinburgh Napier University, UK\
+Helen Hastie, Heriot-Watt University, UK\
+David Howcroft, Heriot Watt University, UK\
 Samuel Läubli, University of Zurich, CH\
-Samira Shaikh, UNC, US\
 Chris van der Lee, Tilburg University, NL\
-Lucia Specia, UCL, UK\
 Nelson Liu, Washington University, US\
-Wei Zhao, TU Darmstadt, DE\
-Qun Liu, Huawei Noah’s Ark Lab, China
+Qun Liu, Huawei Noah’s Ark Lab, China\
+Saad Mahamood, Trivago, DE\
+Nitika Mathur, University of Melbourne, Australia\
+Margot Mieskes, UAS Darmstadt, DE\
+Emiel van Miltenburg, Tilburg University, NL\
+Margaret Mitchell, Google, US\
+Mathias Mueller, University of Zurich, CH\
+Malvina Nissim, Groningen University, NL\
+Juri Opitz, University of Heidelberg, DE\
+Ramakanth Pasunuru, UNC Chapel Hill, US\
+Maxime Peyrard, EPFL, CH\
+Inioluwa Deborah Raji, Ai Now Institute, US\
+Verena Rieser, Heriot Watt University, UK\
+Samira Shaikh, UNC, US\
+Lucia Specia, UCL, UK\
+Wei Zhao, TU Darmstadt, DE
