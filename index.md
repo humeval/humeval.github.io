@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/banner.jpg
 ---
 
-## Workshop on Human Evaluation in NLP
+## Workshop on Human Evaluation of NLP Systems
 
 ### Invited Speakers
 
