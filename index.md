@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "HumEval 2021"
+excerpt: "Workshop on Human Evaluation of NLP Systems at EACL 2021<br /> Online from Kyiv, Ukraine, 19-23rd April, 2021"
 layout: single
 classes: wide
 header:
