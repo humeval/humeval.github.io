@@ -20,6 +20,15 @@ header:
 |Mohit Bansal, UNC Chapel Hill              | Margaret Mitchell, Google AI Ethics Team          | Lucia Specia, Imperial College London      |
 
 
+### Important Dates:
+
+* Nov 28, 2020: First Call for Workshop Papers
+* Dec 18, 2020: Second Call for Workshop Papers
+* Jan 18, 2021: Workshop Paper Due Date
+* Feb 18, 2021: Notification of Acceptance
+* Mar 1, 2021: Camera-ready papers due
+* April 19-20, 2021: Workshop Dates (Tentative)
+
 ### Workshop Topic and Content
 
 Human evaluation plays a central role in NLP, from the large-scale crowd-sourced evaluations carried out e.g. by the WMT workshops, to the much smaller experiments routinely encountered in conference papers. Moreover, while NLP embraced automatic evaluation metrics from BLEU (Papineni et al, 2001) onwards, the field has always been acutely aware of their limitations (Callison-Burch et al., 2006; Reiter and Belz, 2009; Novikova et al., 2017; Reiter, 2018), and has gauged their trustworthiness in terms of how well, and how consistently, they correlate with human evaluation scores (Over et al., 2007; Gatt and Belz, 2008; Bojar et al., 2016; Shimorina, 2018; Ma et al., 2019; Mille et al., 2019; Dušek et al., 2020). 
@@ -50,17 +59,6 @@ With this workshop we wish to create a forum for current human evaluation resear
 We welcome work on the above topics and more from any subfield of NLP (and ML/AI more generally), with a particular focus on evaluation of systems that produce language as output.
 
 In addition to the general track for technical papers, there will be discussion and poster sessions, and a special Shared Task Proposals track.
-
-
-### Important Dates:
-
-* Nov 28, 2020: First Call for Workshop Papers
-* Dec 18, 2020: Second Call for Workshop Papers
-* Jan 18, 2021: Workshop Paper Due Date
-* Feb 18, 2021: Notification of Acceptance
-* Mar 1, 2021: Camera-ready papers due
-* April 19-20, 2021: Workshop Dates (Tentative)
-
 
 ### Paper Submission Information
 
