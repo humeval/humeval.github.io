@@ -1,5 +1,7 @@
 main:
   - title: "Committees"
     url: /committees/
+  - title: "Important Dates"
+    url: /dates/
   - title: "Contact"
     url: /contact/
