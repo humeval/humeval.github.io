@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "HumEval at EACL 2021<br /> Online from Kyiv, Ukraine, 19-23rd April, 2021"
+excerpt: "HumEval at EACL 2021<br /> Online from Kyiv, Ukraine, 19-20th April, 2021"
 layout: single
 classes: wide
 header:
@@ -52,4 +52,11 @@ We welcome work on the above topics and more from any subfield of NLP (and ML/AI
 In addition to the general track for technical papers, there will be discussion and poster sessions, and a special Shared Task Proposals track.
 
 
+### Important Dates:
 
+* Nov 27, 2020: First Call for Workshop Papers
+* Dec 18, 2020: Second Call for Workshop Papers
+* Jan 18, 2021: Workshop Paper Due Date
+* Feb 18, 2021: Notification of Acceptance
+* Mar 1, 2021: Camera-ready papers due
+* April 19-20, 2021: Workshop Dates (Tentative)
