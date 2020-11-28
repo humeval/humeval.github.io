@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Workshop on Human Evaluation of NLP Systems"
+title                    : "HumEval"
 title_separator          : "–"
 name                     : "the HumEval organisers"
 description              : "Workshop on Human Evaluation of NLP Systems"
