@@ -22,7 +22,7 @@ header:
 
 ### Important Dates:
 
-* Nov 28, 2020: First Call for Workshop Papers
+* Dec 2, 2020: First Call for Workshop Papers
 * Dec 18, 2020: Second Call for Workshop Papers
 * Jan 18, 2021: Workshop Paper Due Date
 * Feb 18, 2021: Notification of Acceptance
