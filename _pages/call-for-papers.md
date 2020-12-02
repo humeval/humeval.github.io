@@ -18,8 +18,8 @@ The HumEval Workshop invites the submission of long and short papers on substant
 
 ### Invited Speakers
 
-Mohit Bansal, UNC Chapel Hill, US
-Margaret Mitchell, Google, US
+Mohit Bansal, UNC Chapel Hill, US\
+Margaret Mitchell, Google, US\
 Lucia Specia, UCL, UK 
 
 ### Important Dates
