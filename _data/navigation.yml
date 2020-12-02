@@ -1,7 +1,9 @@
 main:
-  - title: "Committees"
-    url: /committees/
+  - title: "Calls"
+    url: /call-for-papers/
   - title: "Important Dates"
     url: /dates/
+  - title: "Committees"
+    url: /committees/
   - title: "Contact"
     url: /contact/
