@@ -25,11 +25,12 @@ Lucia Specia, UCL, UK
 ### Important Dates
 
 Dec 2: First Call for Workshop Papers\
-Dec 18: Second Call for Workshop Papers\
-Jan 18: Workshop Paper Due Date\
-Feb 18: Notification of Acceptance\
-Mar 01: Camera-ready papers due\
-Apr 19-20: Workshop Dates
+Jan 4: Second Call for Workshop Papers (with new dates)\
+Feb 1: Third Call for Workshop Papers\
+Feb 15: Workshop Papers Due Date\
+Mar 22: Notification of Acceptance\
+Apr 1: Camera-ready papers due\
+Apr 19-20: EACL'21 Workshops
 
 All deadlines are 11.59 pm UTC-12
 
