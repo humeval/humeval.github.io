@@ -59,4 +59,6 @@ With this workshop we wish to create a forum for current human evaluation resear
 
 We welcome work on the above topics and more from any subfield of NLP (and ML/AI more generally), with a particular focus on evaluation of systems that produce language as output.
 
+### Related Workshops
 
+2nd Workshop on "Evaluation & Comparison of NLP Systems" [Eval4NLP 2021](https://eval4nlp.github.io/) co-located at EMNLP 2021. 
