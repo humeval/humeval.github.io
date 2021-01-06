@@ -7,3 +7,5 @@ main:
     url: /committees/
   - title: "Contact"
     url: /contact/
+  - title: "EACL 2021"
+    url: https://2021.eacl.org/program/workshops/
