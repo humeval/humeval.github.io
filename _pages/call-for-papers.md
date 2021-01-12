@@ -11,7 +11,7 @@ header:
 
 ## Workshop on Human Evaluation of NLP Systems (HumEval)
 ### EACL’21, Kiev, Ukraine, 19-20 April 2021
-### https://humeval.github.io
+### <https://humeval.github.io>
 ### First Call for Papers
 
 The HumEval Workshop invites the submission of long and short papers on substantial, original, and unpublished research on all aspects of human evaluation of NLP systems, both intrinsic and extrinsic, including but by no means limited to NLP systems whose output is language.
@@ -83,20 +83,20 @@ HumEval’21 allows multiple submissions. However, if a submission has already b
 
 ### Ethics Policy
 
-Authors are required to honour the ethical code set out in the ACL Code of Ethics.
+Authors are required to honour the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/adminwiki/index.php?title=ACL_Resolutions#March_5.2C_2020).
 The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Where a paper may raise ethical issues, we ask that you include in the paper an explicit discussion of these issues, which will be taken into account in the review process. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the ACL Code of Ethics, or have inadequately addressed legitimate ethical concerns with their work.
 
 ### Paper Submission and Templates
 
-Submission is electronic, using the Softconf START conference management system. For electronic submission of all papers, please use: <https://www.softconf.com/eacl2021/HumEval2021>. Both long and short papers must follow the ACL Author Guidelines, and must use the EACL’21 templates. You can find the EACL-2021 LaTeX template [on overleaf](https://www.overleaf.com/latex/templates/eacl-2021-proceedings-template/jprrhhtnbrrm) or [download the zip file](https://2021.eacl.org/downloads/eacl2021-templates.zip).
+Submission is electronic, using the Softconf START conference management system. For electronic submission of all papers, please use: <https://www.softconf.com/eacl2021/HumEval2021>. Both long and short papers must be anonymised for double-blind reviewing, must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines), and must use the EACL’21 templates. You can find the EACL-2021 LaTeX template [on overleaf](https://www.overleaf.com/latex/templates/eacl-2021-proceedings-template/jprrhhtnbrrm) or [download the zip file](https://2021.eacl.org/downloads/eacl2021-templates.zip).
 
 ### Organisers
 
 Anya Belz, University of Brighton, UK\
 Shubham Agarwal, Heriot Watt University, UK\
 Yvette Graham, Trinity College Dublin, Ireland\
-Ehud Reiter, University of Aberdeen\
-Anastasia Shimorina, Université de Lorraine / LORIA
+Ehud Reiter, University of Aberdeen, UK\
+Anastasia Shimorina, Université de Lorraine / LORIA, France
 
 ### PC Members
 
@@ -135,5 +135,6 @@ Qun Liu, Huawei Noah’s Ark Lab, China
 
 ### Contact Information
 
-humeval.ws@gmail.com\
-https://humeval.github.io
+<humeval.ws@gmail.com>
+
+<https://humeval.github.io>
