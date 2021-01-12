@@ -75,7 +75,7 @@ Long papers will be presented orally or as posters as determined by the programm
 Short paper submissions must describe original and unpublished work. Short papers should have a point that can be made in a few pages. Examples of short papers are a focused contribution, a negative result, an opinion piece, an interesting application nugget, a small set of interesting results.
 Short papers may consist of up to four (4) pages of content, plus unlimited pages of references. Final versions of short papers will be given one additional page of content (up to 5 pages) so that reviewers' comments can be taken into account.
 Short papers will be presented orally or as posters as determined by the programme committee. While short papers will be distinguished from long papers in the proceedings, there will be no distinction in the proceedings between short papers presented orally and as posters.
-Review forms will be made available prior to the deadlines. For more information on applicable policies, see the ACL Policies for Submission, Review, and Citation.
+Review forms will be made available prior to the deadlines. For more information on applicable policies, see the [ACL Policies for Submission, Review, and Citation](https://www.aclweb.org/portal/content/new-policies-submission-review-and-citation).
 
 ### Multiple Submission Policy
 
@@ -88,7 +88,7 @@ The consideration of the ethical impact of our research, use of data, and potent
 
 ### Paper Submission and Templates
 
-Submission is electronic, using the Softconf START conference management system. For electronic submission of all papers, please use: https://www.softconf.com/eacl2021/HumEval2021. Both long and short papers must follow the ACL Author Guidelines, and must use the EACL’21 templates. You can find the EACL-2021 LaTeX template here or download the zip file.
+Submission is electronic, using the Softconf START conference management system. For electronic submission of all papers, please use: <https://www.softconf.com/eacl2021/HumEval2021>. Both long and short papers must follow the ACL Author Guidelines, and must use the EACL’21 templates. You can find the EACL-2021 LaTeX template [on overleaf](https://www.overleaf.com/latex/templates/eacl-2021-proceedings-template/jprrhhtnbrrm) or [download the zip file](https://2021.eacl.org/downloads/eacl2021-templates.zip).
 
 ### Organisers
 
