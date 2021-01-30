@@ -1,6 +1,8 @@
 main:
   - title: "Calls"
     url: /call-for-papers/
+  - title: "Submission Link"
+    url: https://www.softconf.com/eacl2021/HumEval2021/
   - title: "Important Dates"
     url: /dates/
   - title: "Committees"
