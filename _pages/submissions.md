@@ -1,6 +1,6 @@
 ---
 title: "Submission"
-permalink: /submission/
+permalink: /submissions/
 layout: single
 classes: wide
 header:
