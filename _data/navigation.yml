@@ -4,7 +4,7 @@ main:
   - title: "Important Dates"
     url: /dates/
   - title: "Submission"
-    url: /submissions
+    url: /submissions/
   - title: "Committees"
     url: /committees/
   - title: "Contact"
