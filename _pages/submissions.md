@@ -15,4 +15,6 @@ Submission is electronic, using the Softconf START conference management system.
 
 NOTE: It would be possible to include supplementary materials with a submission to Humeval.
 
+Submissions are due on Feb 15, 2021 (11.59 pm UTC-12).
+
 For more information, please follow the [CFP](/call-for-papers/).
