@@ -10,7 +10,7 @@ header:
 ---
 
 ## Workshop on Human Evaluation of NLP Systems (HumEval)
-### EACL’21, Kiev, Ukraine, 19-20 April 2021
+### EACL’21, Kiev, Ukraine, 19th April 2021
 ### <https://humeval.github.io>
 ### First Call for Papers
 
@@ -29,7 +29,7 @@ Feb 1: Third Call for Workshop Papers\
 Feb 15: Workshop Papers Due Date (11.59 pm UTC-12)\
 Mar 22: Notification of Acceptance\
 Apr 1: Camera-ready papers due\
-Apr 19-20: EACL'21 Workshops
+Apr 19: EACL'21 Workshop
 
 All deadlines are 11.59 pm UTC-12
 
