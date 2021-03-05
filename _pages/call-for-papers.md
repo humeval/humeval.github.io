@@ -129,8 +129,8 @@ Chris van der Lee, Tilburg University, NL\
 Lucia Specia, UCL, UK\
 Nelson Liu, Washington University, US\
 Wei Zhao, TU Darmstadt, DE\
-Qun Liu, Huawei Noah’s Ark Lab, China
-
+Qun Liu, Huawei Noah’s Ark Lab, China\
+Behnam Hedayatnia, Amazon, US
 
 ### Contact Information
 
