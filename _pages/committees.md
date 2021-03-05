@@ -53,4 +53,5 @@ Inioluwa Deborah Raji, Ai Now Institute, US\
 Verena Rieser, Heriot Watt University, UK\
 Samira Shaikh, UNC, US\
 Lucia Specia, UCL, UK\
-Wei Zhao, TU Darmstadt, DE
+Wei Zhao, TU Darmstadt, DE\
+Behnam Hedayatnia, Amazon, US
