@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "HumEval at EACL 2021<br /> Online from Kyiv, Ukraine, 19-20th April, 2021"
+excerpt: "HumEval at EACL 2021<br /> Online from Kyiv, Ukraine, 19th April, 2021"
 layout: single
 classes: wide
 header:
@@ -28,7 +28,7 @@ header:
 * Feb 15, 2021: Workshop Papers Due Date (11.59 pm UTC-12)
 * Mar 22, 2021: Notification of Acceptance
 * Apr 1, 2021: Camera-ready papers due
-* April 19-20, 2021: EACL'21 Workshops
+* Apr 19, 2021: EACL'21 Workshops
 
 ### Workshop Topic and Content
 
