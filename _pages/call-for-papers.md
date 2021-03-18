@@ -29,7 +29,7 @@ Feb 1: Third Call for Workshop Papers\
 Feb 15: Workshop Papers Due Date (11.59 pm UTC-12)\
 Mar 22: Notification of Acceptance\
 Apr 1: Camera-ready papers due\
-Apr 19: EACL'21 Workshop
+Apr 19: HumEval Workshop
 
 All deadlines are 11.59 pm UTC-12
 
