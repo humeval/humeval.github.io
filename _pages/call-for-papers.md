@@ -23,13 +23,14 @@ Lucia Specia, UCL, UK
 
 ### Important Dates
 
-Dec 2: First Call for Workshop Papers\
-Jan 4: Second Call for Workshop Papers (with new dates)\
-Feb 1: Third Call for Workshop Papers\
-Feb 15: Workshop Papers Due Date (11.59 pm UTC-12)\
-Mar 22: Notification of Acceptance\
-Apr 1: Camera-ready papers due\
-Apr 19: HumEval Workshop
+Dec 2, 2020: First Call for Workshop Papers\
+Jan 4, 2021: Second Call for Workshop Papers (with new dates)\
+Feb 1, 2021: Third Call for Workshop Papers\
+Feb 15, 2021: Workshop Papers Due Date (11.59 pm UTC-12)\
+Mar 22, 2021: Notification of Acceptance\
+Apr 1, 2021: Camera-ready papers due\
+Apr 7, 2021: EACL [early registration](https://2021.eacl.org/registration/) deadline\
+Apr 19, 2021: HumEval Workshop
 
 All deadlines are 11.59 pm UTC-12
 
