@@ -28,7 +28,7 @@ All timings are in UTC-12
 | 11:30–12:10 | **Oral Session 2 (MT)**              |
 | 11:30–11:50 | *Towards a Document-Level Human MT Evaluation: On the Issues of Annotator Agreement, Effort and Misevaluation* |
 | 11:50–12:10 | *Is this translation error critical?: Classification-based Human and Automatic Machine Translation Evaluation Focusing on Critical Errors* |
-| 12:10–13:30 | **Poster Session**                   |
+| 12:10–13:30 | **Poster Session** <br>- Towards objectively evaluating the quality of generated medical summaries <br>- A preliminary study on evaluating Consultation Notes with Post-Editing <br>- The Great Misalignment Problem in Human Evaluation of NLP Methods <br>- A View From The Crowd: Evaluation Challenges for Time-Offset Interaction Applications <br>- Reliability of human evaluation for text summarization: Lessons learned and challenges ahead <br>- On User Interfaces for Large-Scale Document-level Human Evaluation of Machine Translation Outputs <br>- Direct intrinsic evaluation of word embeddings for philosophical text by domain experts <br>- Detecting Post-edited References and Their Effect on Human Evaluation |
 | 13:30–15:00 | *Lunch*                              |
 | 15:00–15:40 | **Oral Session 3**                   |
 | 15:00–15:20 | *A Case Study of Efficacy and Challenges in Practical Human-in-Loop Evaluation of NLP Systems using Checklist* |
