@@ -31,6 +31,8 @@ All timings are in UTC-12
 | 12:10–13:30 | **Poster Session**                   |
 | 13:30–15:00 | *Lunch*                              |
 | 15:00–15:40 | **Oral Session 3**                   |
+| 15:00–15:20 | *A Case Study of Efficacy and Challenges in Practical Human-in-Loop Evaluation of NLP Systems using Checklist* |
+| 15:20–15:40 | *Interrater disagreement resolution: A systematic procedure to reach consensus in annotation tasks* |
 | 15:40–16:40 | **Discussion Panel**                 |
 | 16:40–17:00 | *Break*                              |
 | 17:00–17:50 | **Invited Talk**                     |
