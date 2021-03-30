@@ -12,9 +12,7 @@ header:
 ## Workshop on Human Evaluation of NLP Systems
 
 ### Programme
-This is the preliminary workshop programme:
-
-All timings are in UTC-12
+This is the preliminary workshop programme (All timings are in GMT+1)
 
 | Time          | Event                                |
 | ------------- | ------------------------------------ |
