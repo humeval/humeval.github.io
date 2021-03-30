@@ -18,19 +18,21 @@ All timings are in UTC-12
 
 | Time          | Event                                |
 | ------------- | ------------------------------------ |
-| 09:00 – 09:10 | **Opening**                          |
-| 09:10 – 10:00 | **Invited Talk:** Disagreement in human evaluation: blame the task not the annotators<br>by [Lucia Specia](https://www.imperial.ac.uk/people/l.specia), Imperial College London and University of Sheffield<br><em> It is well known that human evaluators are prone to disagreement and that this is a problem for reliability and reproducibility of evaluation experiments. The reasons for disagreement can fall into two broad categories: (1) human evaluator, including under-trained, under-incentivised, lacking expertise, or ill-intended individuals, e.g., cheaters; and (2) task, including ill-definition, poor guidelines, suboptimal setup, or inherent subjectivity. While in an ideal evaluation experiment many of these elements will be controlled for, I argue that task subjectivity is a much harder issue. In this talk I will cover a number of evaluation experiments on tasks with variable degrees of subjectivity, discuss their levels of disagreement along with other issues, and cover a few practical approaches do address them. I hope this will lead to an open discussion on possible strategies and directions to alleviate this problem.</em>  |
-| 10:00 – 11:00 | **Oral Session 1 (NLG)**             |
-| 10:00 – 10:20 | *It's Commonsense, isn't it? Demystifying Human Evaluations in Commonsense-enhanced NLG systems* |
-| 10:20 – 10:40 | *Estimating Subjective Crowd-Evaluations as an Additional Objective to Improve Natural Language Generation* |
-| 10:40 – 11:00 | *Trading Off Diversity and Quality in Natural Language Generation* |
-| 11:00 – 11:30 | *Break*                              |
-| 11:30 – 12:10 | **Oral Session 2 (MT)**              |
-| 12:10 – 13:30 | **Poster Session**                   |
-| 13:30 – 15:00 | *Lunch*                              |
-| 15:00 – 15:40 | **Oral Session 3**                   |
-| 15:40 – 16:40 | **Discussion Panel**                 |
-| 16:40 – 17:00 | *Break*                              |
-| 17:00 – 17:50 | **Invited Talk**                     |
-| 17:50 – 18:00 | *Closing*                            |
+| 09:00–09:10 | **Opening**                          |
+| 09:10–10:00 | **Invited Talk:** Disagreement in human evaluation: blame the task not the annotators<br>by [Lucia Specia](https://www.imperial.ac.uk/people/l.specia), Imperial College London and University of Sheffield<br><em> It is well known that human evaluators are prone to disagreement and that this is a problem for reliability and reproducibility of evaluation experiments. The reasons for disagreement can fall into two broad categories: (1) human evaluator, including under-trained, under-incentivised, lacking expertise, or ill-intended individuals, e.g., cheaters; and (2) task, including ill-definition, poor guidelines, suboptimal setup, or inherent subjectivity. While in an ideal evaluation experiment many of these elements will be controlled for, I argue that task subjectivity is a much harder issue. In this talk I will cover a number of evaluation experiments on tasks with variable degrees of subjectivity, discuss their levels of disagreement along with other issues, and cover a few practical approaches do address them. I hope this will lead to an open discussion on possible strategies and directions to alleviate this problem.</em>  |
+| 10:00–11:00 | **Oral Session 1 (NLG)**             |
+| 10:00–10:20 | *It's Commonsense, isn't it? Demystifying Human Evaluations in Commonsense-enhanced NLG systems* |
+| 10:20–10:40 | *Estimating Subjective Crowd-Evaluations as an Additional Objective to Improve Natural Language Generation* |
+| 10:40–11:00 | *Trading Off Diversity and Quality in Natural Language Generation* |
+| 11:00–11:30 | *Break*                              |
+| 11:30–12:10 | **Oral Session 2 (MT)**              |
+| 11:30–11:50 | *Towards a Document-Level Human MT Evaluation: On the Issues of Annotator Agreement, Effort and Misevaluation* |
+| 11:50–12:10 | *Is this translation error critical?: Classification-based Human and Automatic Machine Translation Evaluation Focusing on Critical Errors* |
+| 12:10–13:30 | **Poster Session**                   |
+| 13:30–15:00 | *Lunch*                              |
+| 15:00–15:40 | **Oral Session 3**                   |
+| 15:40–16:40 | **Discussion Panel**                 |
+| 16:40–17:00 | *Break*                              |
+| 17:00–17:50 | **Invited Talk**                     |
+| 17:50–18:00 | *Closing*                            |
 
