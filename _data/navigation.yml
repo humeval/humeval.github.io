@@ -3,6 +3,8 @@ main:
     url: /call-for-papers/
   - title: "Important Dates"
     url: /dates/
+  - title: "Programme"
+    url: /programme/    
   - title: "Submission"
     url: /submissions/
   - title: "Committees"
