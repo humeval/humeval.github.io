@@ -1,17 +1,17 @@
 main:
+  - title: "Programme"
+    url: /programme/
+  - title: "Accepted Papers"
+    url: /accepted-papers/
   - title: "Calls"
     url: /call-for-papers/
   - title: "Important Dates"
     url: /dates/
-  - title: "Programme"
-    url: /programme/
-  - title: "Accepted Papers"
-    url: /accepted-papers/    
-  - title: "Submission"
-    url: /submissions/
   - title: "Committees"
     url: /committees/
   - title: "Contact"
     url: /contact/
+  - title: "Submission"
+    url: /submissions/    
   - title: "EACL 2021"
     url: https://2021.eacl.org/program/workshops/
