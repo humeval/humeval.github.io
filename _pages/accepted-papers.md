@@ -17,5 +17,25 @@ header:
 <br />
 Hugh Zhang, Daniel Duckworth, Daphne Ippolito and Arvind Neelakantan
 
+* Towards objectively evaluating the quality of generated medical summaries
+<br />
+Francesco Moramarco, Damir Juric, Aleksandar Savkov and Ehud Reiter
+
+* A preliminary study on evaluating Consultation Notes with Post-Editing
+<br />
+Francesco Moramarco, Alex Papadopoulos Korfiatis, Aleksandar Savkov and Ehud Reiter
+
+* The Great Misalignment Problem in Human Evaluation of NLP Methods
+<br />
+Mika Hämäläinen and Khalid Alnajjar
+
+* Direct intrinsic evaluation of word embeddings for philosophical text by domain experts
+<br />
+Goya van Boven and Jelke Bloem
+
+* Detecting Post-edited References and Their Effect on Human Evaluation
+<br />
+Věra Kloudová, Ondřej Bojar and Martin Popel
+
 
 ### Long Papers
