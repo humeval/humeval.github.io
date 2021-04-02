@@ -48,7 +48,7 @@ Miruna-Adriana Clinciu, Dimitra Gkatzia and Saad Mahamood
 <br />
 Jakob Nyberg, Maike Paetzel and Ramesh Manuvinakurike
 
-* Towards a Document-Level Human MT Evaluation: On the Issues of Annotator Agreement, Effort and Misevaluation
+* Towards Document-Level Human MT Evaluation: On the Issues of Annotator Agreement, Effort and Misevaluation
 <br />
 Sheila Castilho
 
