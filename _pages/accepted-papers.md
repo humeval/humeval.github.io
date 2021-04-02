@@ -29,7 +29,7 @@ Francesco Moramarco, Alex Papadopoulos Korfiatis, Aleksandar Savkov and Ehud Rei
 <br />
 Mika Hämäläinen and Khalid Alnajjar
 
-* Direct intrinsic evaluation of word embeddings for philosophical text by domain experts
+* Eliciting explicit knowledge from domain experts in direct intrinsic evaluation of word embeddings for specialized domains
 <br />
 Goya van Boven and Jelke Bloem
 
