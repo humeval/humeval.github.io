@@ -18,7 +18,7 @@ The HumEval Workshop invites the submission of long and short papers on substant
 
 ### Invited Speakers
 
-Margaret Mitchell, Google, US\
+Margaret Mitchell \
 Lucia Specia, UCL, UK 
 
 ### Important Dates
