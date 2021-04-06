@@ -17,7 +17,7 @@ header:
 
 |![Margaret Mitchell](/assets/images/mitchell.png) | ![Lucia Specia](/assets/images/specia.png) |
 |:-------------------------------------------------:|:------------------------------------------:|
-|Margaret Mitchell, Google AI Ethics Team          | Lucia Specia, Imperial College London      |
+|Margaret Mitchell                                 | Lucia Specia, Imperial College London      |
 
 
 ### Important Dates:
