@@ -17,15 +17,15 @@ header:
 <br />
 Hugh Zhang, Daniel Duckworth, Daphne Ippolito and Arvind Neelakantan
 
-* Towards Objectively Evaluating the Quality of Generated Medical Summaries
+* [Towards Objectively Evaluating the Quality of Generated Medical Summaries](../papers/2021.humeval-1.6.pdf)
 <br />
 Francesco Moramarco, Damir Juric, Aleksandar Savkov and Ehud Reiter
 
-* A Preliminary Study on Evaluating Consultation Notes With Post-Editing
+* [A Preliminary Study on Evaluating Consultation Notes With Post-Editing](../papers/2021.humeval-1.7.pdf)
 <br />
 Francesco Moramarco, Alex Papadopoulos Korfiatis, Aleksandar Savkov and Ehud Reiter
 
-* The Great Misalignment Problem in Human Evaluation of NLP Methods
+* [The Great Misalignment Problem in Human Evaluation of NLP Methods](../papers/2021.humeval-1.8.pdf)
 <br />
 Mika Hämäläinen and Khalid Alnajjar
 
@@ -56,7 +56,7 @@ Sheila Castilho
 <br />
 Katsuhito Sudoh, Kosuke Takahashi and Satoshi Nakamura
 
-* A View From The Crowd: Evaluation Challenges for Time-Offset Interaction Applications
+* [A View From The Crowd: Evaluation Challenges for Time-Offset Interaction Applications](../papers/2021.humeval-1.9.pdf)
 <br />
 Alberto Chierici and Nizar Habash
 
