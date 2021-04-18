@@ -68,10 +68,10 @@ Neslihan Iskender, Tim Polzehl and Sebastian Möller
 <br />
 Roman Grundkiewicz, Marcin Junczys-Dowmunt, Christian Federmann and Tom Kocmi
 
-* A Case Study of Efficacy and Challenges in Practical Human-in-Loop Evaluation of NLP Systems Using Checklist
+* [A Case Study of Efficacy and Challenges in Practical Human-in-Loop Evaluation of NLP Systems Using Checklist](../papers/2021.humeval-1.14.pdf)
 <br />
 Shaily Bhatt, Rahul Jain, Sandipan Dandapat and Sunayana Sitaram
 
-* Interrater Disagreement Resolution: A Systematic Procedure to Reach Consensus in Annotation Tasks
+* [Interrater Disagreement Resolution: A Systematic Procedure to Reach Consensus in Annotation Tasks](../papers/2021.humeval-1.15.pdf)
 <br />
 Yvette Oortwijn, Thijs Ossenkoppele and Arianna Betti
