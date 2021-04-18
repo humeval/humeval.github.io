@@ -29,11 +29,11 @@ Francesco Moramarco, Alex Papadopoulos Korfiatis, Aleksandar Savkov and Ehud Rei
 <br />
 Mika Hämäläinen and Khalid Alnajjar
 
-* Eliciting Explicit Knowledge From Domain Experts in Direct Intrinsic Evaluation of Word Embeddings for Specialized Domains
+* [Eliciting Explicit Knowledge From Domain Experts in Direct Intrinsic Evaluation of Word Embeddings for Specialized Domains](../papers/2021.humeval-1.12.pdf)
 <br />
 Goya van Boven and Jelke Bloem
 
-* Detecting Post-Edited References and Their Effect on Human Evaluation
+* [Detecting Post-Edited References and Their Effect on Human Evaluation](../papers/2021.humeval-1.13.pdf)
 <br />
 Věra Kloudová, Ondřej Bojar and Martin Popel
 
@@ -60,11 +60,11 @@ Katsuhito Sudoh, Kosuke Takahashi and Satoshi Nakamura
 <br />
 Alberto Chierici and Nizar Habash
 
-* Reliability of Human Evaluation for Text Summarization: Lessons Learned and Challenges Ahead
+* [Reliability of Human Evaluation for Text Summarization: Lessons Learned and Challenges Ahead](../papers/2021.humeval-1.10.pdf)
 <br />
 Neslihan Iskender, Tim Polzehl and Sebastian Möller
 
-* On User Interfaces for Large-Scale Document-Level Human Evaluation of Machine Translation Outputs
+* [On User Interfaces for Large-Scale Document-Level Human Evaluation of Machine Translation Outputs](../papers/2021.humeval-1.11.pdf)
 <br />
 Roman Grundkiewicz, Marcin Junczys-Dowmunt, Christian Federmann and Tom Kocmi
 
