@@ -13,7 +13,7 @@ header:
 
 ### Short Papers
 
-* Trading Off Diversity and Quality in Natural Language Generation
+* [Trading Off Diversity and Quality in Natural Language Generation](../papers/2021.humeval-1.3.pdf)
 <br />
 Hugh Zhang, Daniel Duckworth, Daphne Ippolito and Arvind Neelakantan
 
@@ -44,7 +44,7 @@ Věra Kloudová, Ondřej Bojar and Martin Popel
 <br />
 Miruna-Adriana Clinciu, Dimitra Gkatzia and Saad Mahamood
 
-* Estimating Subjective Crowd-Evaluations as an Additional Objective to Improve Natural Language Generation
+* [Estimating Subjective Crowd-Evaluations as an Additional Objective to Improve Natural Language Generation](../papers/2021.humeval-1.2.pdf)
 <br />
 Jakob Nyberg, Maike Paetzel and Ramesh Manuvinakurike
 
