@@ -3,6 +3,8 @@ main:
     url: /programme/
   - title: "Accepted Papers"
     url: /accepted-papers/
+  - title: "Participation"
+    url: /attending/
   - title: "Calls"
     url: /call-for-papers/
   - title: "Important Dates"
