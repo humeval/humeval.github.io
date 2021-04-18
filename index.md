@@ -10,9 +10,10 @@ header:
   overlay_image: /assets/images/banner.jpg
 ---
 
-# Information about [Participation](https://humeval.github.io/participation/)
-
 ## Workshop on Human Evaluation of NLP Systems
+
+### Information about [Participation](https://humeval.github.io/participation/)
+
 
 ### Invited Speakers
 
