@@ -48,11 +48,11 @@ Miruna-Adriana Clinciu, Dimitra Gkatzia and Saad Mahamood
 <br />
 Jakob Nyberg, Maike Paetzel and Ramesh Manuvinakurike
 
-* Towards Document-Level Human MT Evaluation: On the Issues of Annotator Agreement, Effort and Misevaluation
+* [Towards Document-Level Human MT Evaluation: On the Issues of Annotator Agreement, Effort and Misevaluation](../papers/2021.humeval-1.4.pdf)
 <br />
 Sheila Castilho
 
-* Is This Translation Error Critical?: Classification-Based Human and Automatic Machine Translation Evaluation Focusing on Critical Errors
+* [Is This Translation Error Critical?: Classification-Based Human and Automatic Machine Translation Evaluation Focusing on Critical Errors](../papers/2021.humeval-1.5.pdf)
 <br />
 Katsuhito Sudoh, Kosuke Takahashi and Satoshi Nakamura
 
