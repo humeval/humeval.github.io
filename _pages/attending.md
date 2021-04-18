@@ -1,4 +1,15 @@
-# Participants
+---
+title: "Participation"
+permalink: /participation/
+layout: single
+classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.1"
+  overlay_image: /assets/images/banner.jpg
+---
+
+# Participation
 
 The [virtual conference platform](https://www.virtual2021.eacl.org/) contains information about interactive participation in the conference.
 
