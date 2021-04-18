@@ -40,7 +40,7 @@ Věra Kloudová, Ondřej Bojar and Martin Popel
 
 ### Long Papers
 
-* It's Commonsense, isn't it? Demystifying Human Evaluations in Commonsense-Enhanced NLG systems
+* [It's Commonsense, isn't it? Demystifying Human Evaluations in Commonsense-Enhanced NLG systems](../papers/2021.humeval-1.1.pdf)
 <br />
 Miruna-Adriana Clinciu, Dimitra Gkatzia and Saad Mahamood
 
