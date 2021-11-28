@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "HumEval at EACL 2021<br /> Online from Kyiv, Ukraine, 19th April, 2021"
+excerpt: "HumEval at ACL 2022<br/> Dublin, Ireland, 22-27 May, 2022"
 layout: single
 classes: wide
 header:
@@ -12,57 +12,37 @@ header:
 
 ## Workshop on Human Evaluation of NLP Systems
 
-### Information about [Participation](https://humeval.github.io/participation/)
+## News
 
-
-### Invited Speakers
-
-
-|![Margaret Mitchell](/assets/images/mitchell.png) | ![Lucia Specia](/assets/images/specia.png) |
-|:-------------------------------------------------:|:------------------------------------------:|
-|Margaret Mitchell                                 | Lucia Specia, Imperial College London      |
-
-
-### Important Dates:
-
-* Dec 2, 2020: First Call for Workshop Papers
-* Jan 4, 2021: Second Call for Workshop Papers (with new dates)
-* Feb 1, 2021: Third Call for Workshop Papers
-* Feb 15, 2021: Workshop Papers Due Date (11.59 pm UTC-12)
-* Mar 22, 2021: Notification of Acceptance
-* Apr 1, 2021: Camera-ready papers due
-* Apr 7, 2021: EACL [early registration](https://2021.eacl.org/registration/) deadline
-* Apr 19, 2021: HumEval Workshop
+**22 November**: the second edition of HumEval 2022 will be held at [ACL 2022](https://www.2022.aclweb.org/)!
 
 ### Workshop Topic and Content
 
-Human evaluation plays a central role in NLP, from the large-scale crowd-sourced evaluations carried out e.g. by the WMT workshops, to the much smaller experiments routinely encountered in conference papers. Moreover, while NLP embraced automatic evaluation metrics from BLEU ([Papineni et al, 2001](https://www.aclweb.org/anthology/P02-1040.pdf)) onwards, the field has always been acutely aware of their limitations ([Callison-Burch et al., 2006](https://www.aclweb.org/anthology/E06-1032.pdf); [Reiter and Belz, 2009](https://www.aclweb.org/anthology/J09-4008.pdf); [Novikova et al., 2017](https://www.aclweb.org/anthology/D17-1238.pdf); [Reiter, 2018](https://www.aclweb.org/anthology/J18-3002.pdf)), and has gauged their trustworthiness in terms of how well, and how consistently, they correlate with human evaluation scores ([Over et al., 2007](https://doi.org/https://doi.org/10.1016/j.ipm.2007.01.019); [Gatt and Belz, 2008](https://www.aclweb.org/anthology/W08-1108); [Bojar et al., 2016](https://doi.org/10.18653/v1/W16-2301); [Shimorina, 2018](https://arxiv.org/pdf/1805.11474.pdf); [Ma et al., 2019](https://www.aclweb.org/anthology/W19-5302/); [Mille et al., 2019](https://doi.org/10.18653/v1/D19-6301); [Dušek et al., 2020](https://doi.org/https://doi.org/10.1016/j.csl.2019.06.009)). 
+Human evaluation plays a central role in NLP, from the large-scale crowd-sourced evaluations carried out, e.g., by the [WMT workshops](http://statmt.org/wmt21/), to the much smaller experiments routinely encountered in conference papers. Moreover, while NLP embraced a number of automatic evaluation metrics, the field has always been acutely aware of their limitations ([Callison-Burch et al., 2006](https://www.aclweb.org/anthology/E06-1032); [Reiter and Belz, 2009](https://www.aclweb.org/anthology/J09-4008); [Novikova et al., 2017](https://www.aclweb.org/anthology/D17-1238/); [Reiter, 2018](https://www.aclweb.org/anthology/J18-3002/); [Mathur et al., 2020a](https://aclanthology.org/2020.acl-main.448/)), and has gauged their trustworthiness in terms of how well, and how consistently, they correlate with human evaluation scores ([Gatt and Belz, 2008](https://www.aclweb.org/anthology/W08-1108); [Popović and Ney, 2011](https://aclanthology.org/J11-4002/); [Shimorina, 2018](https://arxiv.org/pdf/1805.11474.pdf);  [Mille et al., 2019](https://doi.org/10.18653/v1/D19-6301); [Dušek et al., 2020](https://doi.org/https://doi.org/10.1016/j.csl.2019.06.009), [Mathur et al., 2020b](https://aclanthology.org/2020.wmt-1.77/)).
 
-Yet there is growing unease about how human evaluations are conducted in NLP. Researchers have pointed out the less than perfect experimental and reporting standards that prevail ([van der Lee et al., 2019](https://www.aclweb.org/anthology/W19-8643.pdf)). Only a small proportion of papers provide enough detail for reproduction of human evaluations, and in many cases the information provided is not even enough to support the conclusions drawn. We have found that more than 200 different quality criteria (Fluency, Grammaticality, etc.) have been used in NLP. Different papers use the same quality criterion name with different definitions, and the same definition with different names. As a result, we currently do not have a way of determining whether two evaluations assess the same thing which poses problems for both meta-evaluation and reproducibility assessments. 
+Yet, there is growing unease about how human evaluations are conducted in NLP. Researchers have pointed out the less than perfect experimental and reporting standards that prevail ([van der Lee et al., 2019](https://www.aclweb.org/anthology/W19-8643/)). Only a small proportion of papers provide enough detail for reproduction of human evaluations, and in many cases the information provided is not even enough to support the conclusions drawn.
 
-Reproducibility in the context of automatically computed system scores has recently attracted a lot of attention, against the background of a troubling history ([Pedersen, 2008](https://www.aclweb.org/anthology/J08-3010.pdf); [Mieskes et al., 2019](https://doi.org/10.26615/978-954-452-056-4_089)), where reproduction fails in 24.9% of cases for own results, and in 56.7% for another team’s ([Mieskes et al., 2019](https://doi.org/10.26615/978-954-452-056-4_089)). Initiatives have included the Reproducibility Challenge ([Pineau et al., 2019](https://zenodo.org/record/3158244/files/article.pdf), [Sinha et al., 2020](https://zenodo.org/record/3818627/files/article.pdf)); the Reproduction Paper special category at COLING'18; the reproducibility programme at NeurIPS'19 comprising code submission, a reproducibility challenge, and the ML Reproducibility checklist, also adopted by EMNLP'20 and AAAI'21; and the REPROLANG shared task at LREC'20 ([Branco et al., 2020](https://www.aclweb.org/anthology/2020.lrec-1.680)). 
+For example, we have found that more than 200 different quality criteria (such as Fluency, Accuracy, Readability, etc.) have been used in NLP. Different papers use the same quality criterion name with different definitions, and the same definition with different names. Furthermore, many papers do not use any particular criterion, asking the evaluators only to assess “how good” the output is. Inter- and intra-annotator agreements are usually given only in the form of an overall number without analysing the reasons and causes for disagreements and potentials to reduce them. A small number of papers are going in this direction from different points of view, such as comparing agreements for different evaluation methods ([Belz & Kow, 2010](https://www.aclweb.org/anthology/W10-4201)), or analysing errors and linguistic phenomena related to disagreements ([Pavlick and Kwiatkowski, 2019](https://aclanthology.org/Q19-1043/); [Oortwijn et al., 2021](https://aclanthology.org/2021.humeval-1.15/); [Thomson and Reiter, 2020](https://aclanthology.org/2020.inlg-1.22/); [Popović, 2021](https://aclanthology.org/2021.conll-1.18/)). Also, context beyond isolated sentences needed for a reliable evaluation has started to be investigated only recently (e.g. [Castilho et al., 2020](https://aclanthology.org/2020.lrec-1.461/)).
 
-However, reproducibility in the context of system scores obtained via human evaluations has barely been addressed at all, with a tiny number of papers (e.g. [Belz & Kow, 2010](https://www.aclweb.org/anthology/W10-4201.pdf); [Cooper & Shardlow, 2020](https://www.aclweb.org/anthology/2020.lrec-1.686.pdf)) reporting attempted reproductions of results. The developments in reproducibility of automatically computed scores listed above are important, but it is concerning that not a single one of the initiatives and events above addresses human evaluations. E.g. if a paper fully complies with all of the NeurIPS'19/EMNLP'20 reproducibility criteria, any human evaluation results reported in it may not be reproducible to any degree, simply because the criteria do not address human evaluation in any way. 
+All those aspects are important for the reliability and reproducibility of human evaluations. While reproducibility of automatically computed evaluation scores has attracted attention in recent years (e.g. [Pineau et al., 2019](https://zenodo.org/record/3158244/files/article.pdf), [Branco et al., 2020](https://www.aclweb.org/anthology/2020.lrec-1.680)), reproducibility of scores obtained by human evaluations has barely been addressed at all ([Belz & Kow, 2010](https://www.aclweb.org/anthology/W10-4201.pdf); [Cooper & Shardlow, 2020](https://www.aclweb.org/anthology/2020.lrec-1.686.pdf)) so far. This year, [ReproGen](https://reprogen.github.io/) shared task ([Belz et al., 2021](https://aclanthology.org/2021.inlg-1.24/)) aimed to shed more light on reproducibility of human evaluations, and the first results indicate that even reproducing one’s own evaluation is not a simple task (e.g. [Popović and Belz, 2021](https://aclanthology.org/2021.inlg-1.31/)) so that much more work is needed in this direction.
 
-With this workshop we wish to create a forum for current human evaluation research and future directions, a space for researchers working with human evaluations to exchange ideas and begin to address the issues human evaluation in NLP currently faces, including experimental design, reporting standards, meta-evaluation and reproducibility. We will invite papers on topics including, but not limited to, the following:
+With this workshop, we wish to create a forum for current human evaluation research and future directions, a space for researchers working with human evaluations to exchange ideas and begin to address the issues human evaluation in NLP faces from many points of view, including experimental design, meta-evaluation and reproducibility. We will invite papers on topics including, but not limited to, the following:
 
-* Experimental design for human evaluations
+* Experimental design and methods for human evaluations
 * Reproducibility of human evaluations
+* Work on inter-evaluator and intra-evaluator agreement
 * Ethical considerations in human evaluation of computational systems
 * Quality assurance for human evaluation 
 * Crowdsourcing for human evaluation
 * Issues in meta-evaluation of automatic metrics by correlation with human evaluations
 * Alternative forms of meta-evaluation and validation of human evaluations
 * Comparability of different human evaluations
-* Methods for assessing the quality of human evaluations
-* Methods for assessing the reliability of human evaluations
-* Work on measuring inter-evaluator and intra-evaluator agreement
-* Frameworks, model cards and checklists for human evaluation
-* Explorations of the role of human evaluation in the context of Responsible AI and Accountable AI
-* Protocols for human evaluation experiments in NLP
+* Methods for assessing the quality and the reliability of human evaluations
+* Role of human evaluation in the context of Responsible and Accountable AI
 
-We welcome work on the above topics and more from any subfield of NLP (and ML/AI more generally), with a particular focus on evaluation of systems that produce language as output.
+We will welcome work from any subfield of NLP (and ML/AI more generally), with a particular focus on evaluation of systems that produce language as output.
 
 ### Related Workshops
 
-2nd Workshop on "Evaluation & Comparison of NLP Systems" [Eval4NLP 2021](https://eval4nlp.github.io/) co-located at EMNLP 2021. 
+Workshop on "Evaluation & Comparison of NLP Systems": [Eval4NLP 2021](https://eval4nlp.github.io/).
+

@@ -1,19 +1,13 @@
 main:
-  - title: "Programme"
-    url: /programme/
-  - title: "Accepted Papers"
-    url: /accepted-papers/
-  - title: "Participation"
-    url: /participation/
   - title: "Calls"
-    url: /call-for-papers/
+    url: /2022/call-for-papers/
   - title: "Important Dates"
-    url: /dates/
+    url: /2022/dates/
   - title: "Committees"
-    url: /committees/
+    url: /2022/committees/
   - title: "Contact"
-    url: /contact/
+    url: /2022/contact/
   - title: "Submission"
-    url: /submissions/   
+    url: /2022/submissions/   
   - title: "HumEval 2021"
     url: /2021/
