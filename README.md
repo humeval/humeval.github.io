@@ -5,7 +5,7 @@ Repository for website https://humeval.github.io
 
 ## Editing
 
-You can modify the pages directly on GitHub and changes will be pushed to the website immediately.
+You can modify the pages directly on GitHub, and your changes will be pushed to the website immediately.
 
 - Modify the main page (`index.md`):
 
