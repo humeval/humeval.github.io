@@ -1,6 +1,6 @@
 ---
 title: "Important Dates"
-permalink: /dates/
+permalink: /2021/dates/
 layout: single
 classes: wide
 header:

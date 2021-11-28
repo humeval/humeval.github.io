@@ -14,6 +14,6 @@ main:
   - title: "Contact"
     url: /contact/
   - title: "Submission"
-    url: /submissions/    
-  - title: "EACL 2021"
-    url: https://2021.eacl.org/program/workshops/
+    url: /submissions/   
+  - title: "HumEval 2021"
+    url: /2021/

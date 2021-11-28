@@ -1,6 +1,6 @@
 ---
 title: "Submission"
-permalink: /submissions/
+permalink: /2021/submissions
 layout: single
 classes: wide
 header:
@@ -17,4 +17,4 @@ NOTE: It would be possible to include supplementary materials with a submission 
 
 Submissions are due on Feb 15, 2021 (11.59 pm UTC-12).
 
-For more information, please follow the [CFP](/call-for-papers/).
+For more information, please follow the [CFP](/2021/call-for-papers/).

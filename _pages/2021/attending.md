@@ -1,6 +1,6 @@
 ---
 title: "Participation"
-permalink: /participation/
+permalink: /2021/participation/
 layout: single
 classes: wide
 header:
@@ -24,4 +24,4 @@ Important information:
 
 If you need help with Gather.Town, please read [this guide](https://eacl2021-public.s3.amazonaws.com/guides/EACL%2BVirtual%2BChair%2BPre-event%2Bcommunications.pdf). Please use Chrome or Firefox with Gather.Town.
 
-Papers are linked from the [workshop programme](https://humeval.github.io/programme/).
+Papers are linked from the [workshop programme](/2021/programme/).
