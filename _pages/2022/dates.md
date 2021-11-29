@@ -11,11 +11,9 @@ header:
 
 ### Important Dates:
 
-* tbd: First Call for Workshop Papers
-* tbd: Second Call for Workshop Papers
-* tbd: Third Call for Workshop Papers
-* tbd: Workshop Papers Due Date (11.59 pm UTC-12)
-* tbd: Notification of Acceptance
-* tbd: Camera-ready papers due
-* tbd: ACL early registration deadline
-* May 26 or May 27, 2022: HumEval Workshop
+* December 20, 2021: First Call for Workshop Papers 
+* February 6, 2022: Second Call for Workshop Papers 
+* February 28, 2022: Workshop Paper Due Date (11.59 pm UTC-12)
+* March 26, 2022: Notification of Acceptance 
+* April 10, 2022: Camera-ready papers due 
+* May 26 or May 27, 2022: Workshop Dates at ACL (to be defined)
