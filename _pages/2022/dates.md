@@ -12,7 +12,8 @@ header:
 ### Important Dates:
 
 * December 20, 2021: First Call for Workshop Papers 
-* February 6, 2022: Second Call for Workshop Papers 
+* February 6, 2022: Second Call for Workshop Papers
+* February 15, 2022: Submission Deadline for [ACL Rolling Review](https://aclrollingreview.org/)
 * February 28, 2022: Workshop Paper Due Date (11.59 pm UTC-12)
 * March 26, 2022: Notification of Acceptance 
 * April 10, 2022: Camera-ready papers due 
