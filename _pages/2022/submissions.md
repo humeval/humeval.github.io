@@ -11,4 +11,6 @@ header:
 
 ### Paper Submission and Templates
 
-tbd
+Submission is electronic, the links will be available soon.
+
+Both long and short papers must be anonymised for double-blind reviewing, must follow the ACL Author Guidelines, and must use the ACL 2022 templates available on the [ACL Rolling Review website](https://aclrollingreview.org/cfp).
