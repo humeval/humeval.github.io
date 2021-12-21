@@ -14,6 +14,8 @@ header:
 
 ## News
 
+**20 December**: the [first call for papers](/2022/call-for-papers/) is out
+
 **22 November**: the second edition of HumEval 2022 will be held at [ACL 2022](https://www.2022.aclweb.org/)!
 
 ### Workshop Topic and Content
