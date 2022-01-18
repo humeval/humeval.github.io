@@ -23,7 +23,7 @@ The 2nd HumEval Workshop invites the submission of long and short papers on subs
 
 ### Invited speakers
 
-Samira Shaikh, University of North Carolina - Charlotte 
+Samira Shaikh, University of North Carolina - Charlotte \
 Markus Freitag, Google
 
 ### Important dates
@@ -32,8 +32,7 @@ Markus Freitag, Google
 22 March 2022: Commitment deadline for [ARR](https://aclrollingreview.org/) submissions with reviews\
 26 March 2022: Notification of Acceptance\
 10 April 2022: Camera-ready papers due\
-27 May 2022: Workshop at ACL\
-
+27 May 2022: Workshop at ACL
 
 All deadlines are 23:59 UTC-12.
 
@@ -69,7 +68,7 @@ HumEval22 allows multiple submissions. However, if a submission has already been
 
 #### Submission procedure and templates
 
-Submission is electronic, through the [OpenReview portal for the workshop](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/HumEval).
+Submission is electronic, through the [OpenReview portal for the workshop](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/HumEval)
 with the deadline on 28 February 2022.
 
 Both long and short papers must be anonymised for double-blind reviewing, must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines), and must use the ACL 2022 templates available on the [ACL Rolling Review website](https://aclrollingreview.org/cfp).
@@ -86,7 +85,7 @@ Appendices should come after the references in the submitted pdf, but do not cou
 Anya Belz, ADAPT Centre, Dublin City University, Ireland\
 Maja Popović, ADAPT Centre, Dublin City University, Ireland\
 Ehud Reiter, University of Aberdeen, UK\
-Anastasia Shimorina, Orange, Lannion, France\
+Anastasia Shimorina, Orange, Lannion, France
 
 For questions and comments regarding the workshop please contact the organisers at <humeval.ws@gmail.com>.
 
@@ -116,4 +115,4 @@ Tim Polzehl, TU Berlin, Germany\
 Martin Popel, UFAL, Czechia\
 Verena Rieser, Heriot Watt University, UK\
 Samira Shaikh, UNC, USA\
-Wei Zhao, TU Darmstadt, Germany\
+Wei Zhao, TU Darmstadt, Germany
