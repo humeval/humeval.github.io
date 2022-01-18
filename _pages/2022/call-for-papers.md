@@ -64,7 +64,7 @@ Long papers must describe substantial, original, completed and unpublished work.
 Short paper submissions must describe original and unpublished work. Short papers should have a point that can be made in a few pages. Examples of short papers are a focused contribution, a negative result, an opinion piece, an interesting application nugget, a small set of interesting results. Short papers may consist of up to four (4) pages of content, plus unlimited pages of references. Final versions of short papers will be given one additional page of content (up to 5 pages) so that reviewers’ comments can be taken into account. Short papers will be presented orally or as posters as determined by the programme committee. While short papers will be distinguished from long papers in the proceedings, there will be no distinction in the proceedings between short papers presented orally and as posters.
 
 #### Multiple submission policy
-HumEval22 allows multiple submissions. However, if a submission has already been, or is planned to be, submitted to another event, this must be clearly stated in the submission form.
+HumEval'22 allows multiple submissions. However, if a submission has already been, or is planned to be, submitted to another event, this must be clearly stated in the submission form.
 
 #### Submission procedure and templates
 
