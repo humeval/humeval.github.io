@@ -10,7 +10,7 @@ header:
 ---
 
 ## Workshop on Human Evaluation of NLP Systems (HumEval)
-### ACL’22, Dublin, Ireland, 26 or 27 May 2022
+### ACL’22, Dublin, Ireland, 27 May 2022
 ### First Call for Papers
 
 Website: <https://humeval.github.io/>
@@ -21,16 +21,21 @@ Previous edition (at EACL 2021): <https://humeval.github.io/2021/>
 
 The 2nd HumEval Workshop invites the submission of long and short papers on substantial, original, and unpublished research on all aspects of human evaluation of NLP systems including but by no means limited to NLP systems whose output is language. The aspects include intrinsic (directly on the given task) as well as extrinsic (on an external task) evaluation, quantitative as well as qualitative methods, score-based (discrete or continuous scores) as well as annotation-based (marking, highlighting) procedures, different quality criteria.
 
+### Invited speakers
+
+Samira Shaikh, University of North Carolina - Charlotte 
+Markus Freitag, Google
+
 ### Important dates
 
-December 20, 2021: First Call for Workshop Papers\
-February 6, 2022: Second Call for Workshop Papers\
-February 28, 2022: Submission Deadline\
-March 26, 2022: Notification of Acceptance\
-April 10, 2022: Camera-ready papers due\
-26 or 27 May 2022: Workshop Dates at ACL (to be defined)
+28 February 2022: Submission Deadline\
+22 March 2022: Commitment deadline for [ARR](https://aclrollingreview.org/) submissions with reviews\
+26 March 2022: Notification of Acceptance\
+10 April 2022: Camera-ready papers due\
+27 May 2022: Workshop at ACL\
 
-All deadlines are 23:59 UTC-12
+
+All deadlines are 23:59 UTC-12.
 
 
 ### Papers
@@ -63,8 +68,14 @@ Short paper submissions must describe original and unpublished work. Short paper
 HumEval22 allows multiple submissions. However, if a submission has already been, or is planned to be, submitted to another event, this must be clearly stated in the submission form.
 
 #### Submission procedure and templates
-Submission is electronic, the links will be available soon. 
-Both long and short papers must be anonymised for double-blind reviewing, must follow the ACL Author Guidelines, and must use the ACL 2022 templates available on the [ACL Rolling Review website](https://aclrollingreview.org/cfp).
+
+Submission is electronic, through the [OpenReview portal for the workshop](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/HumEval).
+with the deadline on 28 February 2022.
+
+Both long and short papers must be anonymised for double-blind reviewing, must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines), and must use the ACL 2022 templates available on the [ACL Rolling Review website](https://aclrollingreview.org/cfp).
+All authors must have an OpenReview profile. Please ensure profiles are complete before submission. [This tutorial](https://docs.google.com/presentation/d/1kJeoAfwbnFapUN0ySLSoOm11-2odz48DGS1DEzNs03k/edit#slide=id.gcfa2063058_0_0) from the ACL Rolling Review might be helpful. 
+
+In addition to standard submissions, submissions which were previously submitted to ARR and reviewed there can be committed to the workshop (together with the reviews) not later than 22 March 2022. We suppose that all papers submitted to ARR until 15 February 2022 will be reviewed by 22 March, however we cannot guarantee because it depends on ARR editors and not on us. Commitment link will be published soon.
 
 #### Optional Supplementary Materials: Appendices, Software and Data
 ARR encourages the submission of these supplementary materials to improve the reproducibility of results, and to enable authors to provide additional information that does not fit in the paper. Supplementary materials may include appendices, software or data. For example, pre processing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into appendices. However, if the pseudo-code or derivations or model specifications are an important part of the contribution, or if they are important for the reviewers to assess the technical correctness of the work, they should be a part of the main paper, and not appear in appendices. Reviewers are not required to consider material in appendices.
