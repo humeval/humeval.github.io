@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "HumEval at ACL 2022<br/> Dublin, Ireland, 22-27 May, 2022"
+excerpt: "HumEval at ACL 2022<br/> Dublin, Ireland, 27 May, 2022"
 layout: single
 classes: wide
 header:
@@ -13,6 +13,8 @@ header:
 ## The 2nd Workshop on Human Evaluation of NLP Systems
 
 ## News
+
+**18 January**: the [second call for papers](/2022/call-for-papers/) is out
 
 **20 December**: the [first call for papers](/2022/call-for-papers/) is out
 
