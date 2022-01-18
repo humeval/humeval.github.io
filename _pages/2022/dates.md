@@ -11,11 +11,11 @@ header:
 
 ### Important Dates:
 
-* December 20, 2021: First Call for Workshop Papers 
-* January 18, 2022: Second Call for Workshop Papers
-* February 28, 2022: Workshop Paper Due Date (11.59 pm UTC-12)
-* March 26, 2022: Notification of Acceptance 
+* December 20, 2021: First call for workshop papers 
+* January 18, 2022: Second call for workshop papers
+* February 28, 2022: Workshop paper due date (11.59 pm UTC-12)
+* March 26, 2022: Notification of acceptance 
 * April 10, 2022: Camera-ready papers due 
-* May 27, 2022: Workshop Dates at ACL
+* May 27, 2022: Workshop date at ACL
 
 All deadlines are 23:59 UTC-12.
