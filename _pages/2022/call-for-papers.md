@@ -11,7 +11,7 @@ header:
 
 ## Workshop on Human Evaluation of NLP Systems (HumEval)
 ### ACL’22, Dublin, Ireland, 27 May 2022
-### First Call for Papers
+### Second Call for Papers
 
 Website: <https://humeval.github.io/>
 
