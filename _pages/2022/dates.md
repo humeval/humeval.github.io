@@ -15,7 +15,7 @@ header:
 * January 18, 2022: Second call for workshop papers
 * February 15, 2022: Submission deadline for [ARR](https://aclrollingreview.org/)*
 * February 28, 2022: Workshop paper due date (standard submissions via the [OpenReview Workshop Portal](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/HumEval))
-* March 22, 2002: Commitment deadline for ARR submissions
+* March 22, 2002: Commitment deadline for ARR submissions with reviews
 * March 26, 2022: Notification of acceptance 
 * April 10, 2022: Camera-ready papers due 
 * May 27, 2022: Workshop date at ACL
