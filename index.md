@@ -22,7 +22,7 @@ header:
 
 ### Invited Speakers
 
-|![Markus Freitag](/assets/images/markus-freitag-.png) | ![Samira Shaikh](/assets/images/samira-shaikh.png)                   |
+|![Markus Freitag](/assets/images/markus-freitag.png) | ![Samira Shaikh](/assets/images/samira-shaikh.png)                   |
 |:---------------------------------------------------:|:--------------------------------------------------------------------:|
 | Markus Freitag, Google                              | Samira Shaikh, University of North Carolina at Charlotte / Ally      |
 
