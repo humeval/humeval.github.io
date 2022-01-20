@@ -23,7 +23,7 @@ The Second Workshop on Human Evaluation of NLP Systems (HumEval'22) invites the 
 
 ### Invited speakers
 
-Samira Shaikh, University of North Carolina - Charlotte \
+Samira Shaikh, University of North Carolina at Charlotte / Ally \
 Markus Freitag, Google
 
 ### Important dates
