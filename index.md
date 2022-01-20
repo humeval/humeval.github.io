@@ -14,6 +14,8 @@ header:
 
 ## News
 
+**20 January**: HumEval will have two invited speakers: Markus Freitag and Samira Shaikh!
+
 **18 January**: the [second call for papers](/2022/call-for-papers/) is out
 
 **20 December**: the [first call for papers](/2022/call-for-papers/) is out
