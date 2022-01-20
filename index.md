@@ -20,6 +20,12 @@ header:
 
 **22 November**: the second edition of HumEval 2022 will be held at [ACL 2022](https://www.2022.aclweb.org/)!
 
+### Invited Speakers
+
+|![Markus Freitag](/assets/images/markus-freitag.png) | ![Samira Shaikh](/assets/images/samira-shaikh.png)                   |
+|:---------------------------------------------------:|:--------------------------------------------------------------------:|
+| Markus Freitag, Google                              | Samira Shaikh, University of North Carolina at Charlotte / Ally      |
+
 ### Workshop Topic and Content
 
 Human evaluation plays a central role in NLP, from the large-scale crowd-sourced evaluations carried out, e.g., by the [WMT workshops](http://statmt.org/wmt21/), to the much smaller experiments routinely encountered in conference papers. Moreover, while NLP embraced a number of automatic evaluation metrics, the field has always been acutely aware of their limitations ([Callison-Burch et al., 2006](https://www.aclweb.org/anthology/E06-1032); [Reiter and Belz, 2009](https://www.aclweb.org/anthology/J09-4008); [Novikova et al., 2017](https://www.aclweb.org/anthology/D17-1238/); [Reiter, 2018](https://www.aclweb.org/anthology/J18-3002/); [Mathur et al., 2020a](https://aclanthology.org/2020.acl-main.448/)), and has gauged their trustworthiness in terms of how well, and how consistently, they correlate with human evaluation scores ([Gatt and Belz, 2008](https://www.aclweb.org/anthology/W08-1108); [Popović and Ney, 2011](https://aclanthology.org/J11-4002/); [Shimorina, 2018](https://arxiv.org/pdf/1805.11474.pdf);  [Mille et al., 2019](https://doi.org/10.18653/v1/D19-6301); [Dušek et al., 2020](https://doi.org/https://doi.org/10.1016/j.csl.2019.06.009), [Mathur et al., 2020b](https://aclanthology.org/2020.wmt-1.77/)).
