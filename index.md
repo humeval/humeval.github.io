@@ -24,7 +24,8 @@ header:
 
 |![Markus Freitag](/assets/images/markus-freitag.png) | ![Samira Shaikh](/assets/images/samira-shaikh.png)                   |
 |:---------------------------------------------------:|:--------------------------------------------------------------------:|
-| Markus Freitag, Google                              | Samira Shaikh, University of North Carolina at Charlotte / Ally      |
+| Markus Freitag                                      | Samira Shaikh                                                        |
+| Google                                              | University of North Carolina at Charlotte / Ally                     |
 
 ### Workshop Topic and Content
 
