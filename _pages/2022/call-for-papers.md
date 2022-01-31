@@ -117,4 +117,5 @@ Tim Polzehl, TU Berlin, Germany\
 Martin Popel, UFAL, Czechia\
 Verena Rieser, Heriot Watt University, UK\
 Samira Shaikh, UNC, USA\
+Joel Tetreault, Dataminr, USA\
 Wei Zhao, TU Darmstadt, Germany
