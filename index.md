@@ -14,6 +14,8 @@ header:
 
 ## News
 
+**25 March**: Notification deadline is postponed to 30 March.
+
 **20 January**: HumEval will have two invited speakers: Markus Freitag and Samira Shaikh!
 
 **18 January**: the [second call for papers](/2022/call-for-papers/) is out
