@@ -31,7 +31,7 @@ Markus Freitag, Google
 15 February 2022: Submission deadline for [ARR](https://aclrollingreview.org/)* \
 28 February 2022: Submission deadline for standard submissions (via the [OpenReview Workshop Portal](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/HumEval)) \
 22 March 2022: Commitment deadline for [ARR](https://aclrollingreview.org/) submissions with reviews\
-26 March 2022: Notification of acceptance\
+~~26~~ 30 March 2022: Notification of acceptance\
 10 April 2022: Camera-ready papers due\
 27 May 2022: Workshop at ACL
 
