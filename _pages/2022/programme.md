@@ -1,6 +1,6 @@
 ---
 title: "Workshop Programme"
-permalink: /2021/programme/
+permalink: /2022/programme/
 layout: single
 classes: wide
 header:
