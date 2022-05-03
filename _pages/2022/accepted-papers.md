@@ -11,19 +11,19 @@ header:
 
 ## Accepted Papers
 
-* Beyond calories: how tailored communication in diet-coaching apps improves users’ emotional state
+* Beyond calories: evaluating how tailored communication reduces emotional load in diet-coaching
 <br/>
 Simone Balloccu, Ehud Reiter
 
 * Human evaluation of web-crawled parallel corpora for machine translation
 <br/>
-Marta Bañón, Jaume Zaragoza-Bernabeu, Gema Ramírez-Sánchez, Sergio Ortiz-Rojas
+Gema Ramírez-Sánchez, Marta Bañón, Jaume Zaragoza-Bernabeu, Sergio Ortiz-Rojas
 
 * A Methodology for the Comparison of Human Judgments With Metrics for Coreference Resolution
 <br/>
 Mariya Borovikova, Loïc Grobol, Anaïs Lefeuvre-Halftermeyer, Sylvie Billot
 
-* Guidance to Pre-tokenization for SacreBLEU: Meta-Evaluation in Korean
+* Vacillating Human Correlation of SacreBLEU in Unprotected Languages
 <br/>
 Ahrii Kim, Jinhyeon Kim
 
@@ -31,11 +31,11 @@ Ahrii Kim, Jinhyeon Kim
 <br/>
 Huiyuan Lai, Jiali Mao, Antonio Toral, Malvina Nissim
 
-* A Study on Manual and Automatic Evaluation for Text Style Transfer
+* A Study on Manual and Automatic Evaluation for Text Style Transfer: The Case of Detoxification
 <br/>
 Varvara Logacheva, Daryna Dementieva, Irina Krotova, Alena Fenogenova, Irina Nikishina, Tatiana Shavrina, Alexander Panchenko
 
-* Word Sense Disambiguation for Mutual Understanding in Human-Computer Spontaneous Conversation in English
+* Towards Human Evaluation of Mutual Understanding in Human-Computer Spontaneous Conversation: An Empirical Study of Word Sense Disambiguation for Naturalistic Social Dialogs in American English
 <br/>
 Alex Lưu
 
@@ -47,7 +47,7 @@ Vivien Macketanz, Babak Naderi, Steven Schmidt, Sebastian Möller
 <br/>
 Belén C Saldías Fuentes, George Foster, Markus Freitag, Qijun Tan
 
-* HEDS 2.0: A Datasheet for Recording Details of Human Evaluation Experiments in NLP for Comparability and Reproducibility
+* The Human Evaluation Datasheet: A Template for Recording Details of Human Evaluation Experiments in NLP
 <br/>
 Anastasia Shimorina, Anya Belz
 
