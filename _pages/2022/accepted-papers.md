@@ -11,6 +11,7 @@ header:
 
 ## Accepted Papers
 
+### Long papers
 * Beyond calories: evaluating how tailored communication reduces emotional load in diet-coaching
 <br/>
 Simone Balloccu, Ehud Reiter
@@ -18,10 +19,6 @@ Simone Balloccu, Ehud Reiter
 * Human evaluation of web-crawled parallel corpora for machine translation
 <br/>
 Gema Ramírez-Sánchez, Marta Bañón, Jaume Zaragoza-Bernabeu, Sergio Ortiz-Rojas
-
-* A Methodology for the Comparison of Human Judgments With Metrics for Coreference Resolution
-<br/>
-Mariya Borovikova, Loïc Grobol, Anaïs Lefeuvre-Halftermeyer, Sylvie Billot
 
 * Vacillating Human Correlation of SacreBLEU in Unprotected Languages
 <br/>
@@ -35,14 +32,6 @@ Huiyuan Lai, Jiali Mao, Antonio Toral, Malvina Nissim
 <br/>
 Varvara Logacheva, Daryna Dementieva, Irina Krotova, Alena Fenogenova, Irina Nikishina, Tatiana Shavrina, Alexander Panchenko
 
-* Towards Human Evaluation of Mutual Understanding in Human-Computer Spontaneous Conversation: An Empirical Study of Word Sense Disambiguation for Naturalistic Social Dialogs in American English
-<br/>
-Alex Lưu
-
-* Perceptual Quality Dimensions of Machine-Generated Text with a Focus on Machine Translation
-<br/>
-Vivien Macketanz, Babak Naderi, Steven Schmidt, Sebastian Möller
-
 * Toward More Effective Human Evaluation for Machine Translation
 <br/>
 Belén C Saldías Fuentes, George Foster, Markus Freitag, Qijun Tan
@@ -51,3 +40,16 @@ Belén C Saldías Fuentes, George Foster, Markus Freitag, Qijun Tan
 <br/>
 Anastasia Shimorina, Anya Belz
 
+### Short papers
+
+* A Methodology for the Comparison of Human Judgments With Metrics for Coreference Resolution
+<br/>
+Mariya Borovikova, Loïc Grobol, Anaïs Lefeuvre-Halftermeyer, Sylvie Billot
+
+* Perceptual Quality Dimensions of Machine-Generated Text with a Focus on Machine Translation
+<br/>
+Vivien Macketanz, Babak Naderi, Steven Schmidt, Sebastian Möller
+
+* Towards Human Evaluation of Mutual Understanding in Human-Computer Spontaneous Conversation: An Empirical Study of Word Sense Disambiguation for Naturalistic Social Dialogs in American English
+<br/>
+Alex Lưu
