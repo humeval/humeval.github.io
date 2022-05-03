@@ -13,7 +13,7 @@ header:
 ## The 2nd Workshop on Human Evaluation of NLP Systems
 
 ## News
-**3 May**: The list of [accepted papers](/2022/accepted-papers) is published!
+**3 May**: The list of the [accepted papers](/2022/accepted-papers) is published!
 
 **25 March**: Notification deadline is postponed to 30 March.
 
