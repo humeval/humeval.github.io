@@ -13,9 +13,11 @@ header:
 ## The 2nd Workshop on Human Evaluation of NLP Systems
 
 ## News
+**15 May**: [Workshop programme](/2022/programme) is available
+
 **3 May**: The list of the [accepted papers](/2022/accepted-papers) is published!
 
-**25 March**: Notification deadline is postponed to 30 March.
+**25 March**: Notification deadline is postponed to 30 March
 
 **20 January**: HumEval will have two invited speakers: Markus Freitag and Samira Shaikh!
 
