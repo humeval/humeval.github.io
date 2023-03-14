@@ -31,7 +31,9 @@ window.addEventListener("load", init, false);
 Anya Belz, ADAPT Centre, Dublin City University, Ireland\
 Maja Popović, ADAPT Centre, Dublin City University, Ireland\
 Ehud Reiter, University of Aberdeen, UK\
+João Sedoc, New-York University, US\ 
 Craig Thomson, University of Aberdeen, UK
+
 
 
 For questions and comments regarding the workshop please contact the organisers at <span class="contactaddr">humeval.ws<span class="athere"></span>gmail.com</span>. 
