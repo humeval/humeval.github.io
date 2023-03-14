@@ -11,10 +11,10 @@ header:
 
 ### Important Dates:
 
-* Workshop paper submission deadline (suggested): 10 July 2023
-* Workshop paper acceptance notification (suggested): 5 August 2023
-* Workshop paper camera-ready versions (suggested): 25 August 2023
-* Workshop camera-ready proceedings ready (suggested): 31 August 2023
+* Workshop paper submission deadline: 10 July 2023
+* Workshop paper acceptance notification: 5 August 2023
+* Workshop paper camera-ready versions: 25 August 2023
+* Workshop camera-ready proceedings ready: 31 August 2023
 
 All deadlines are 23:59 UTC-12.
 
