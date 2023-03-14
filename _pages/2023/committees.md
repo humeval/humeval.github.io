@@ -28,10 +28,10 @@ window.addEventListener("load", init, false);
 
 ### Organisers
 
-Anya Belz, ADAPT Centre, Dublin City University, Ireland\
-Maja Popović, ADAPT Centre, Dublin City University, Ireland\
-Ehud Reiter, University of Aberdeen, UK\
-João Sedoc, New-York University, US\ 
+Anya Belz, ADAPT Centre, Dublin City University, Ireland \
+Maja Popović, ADAPT Centre, Dublin City University, Ireland \
+Ehud Reiter, University of Aberdeen, UK \
+João Sedoc, New-York University, US \ 
 Craig Thomson, University of Aberdeen, UK
 
 
