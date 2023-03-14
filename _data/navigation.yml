@@ -1,8 +1,4 @@
 main:
-  - title: "Programme"
-    url: /2023/programme/
-  - title: "Accepted Papers"
-    url: /2023/accepted-papers/
   - title: "Calls"
     url: /2023/call-for-papers/
   - title: "Important Dates"
