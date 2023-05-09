@@ -67,7 +67,7 @@ HumEval'23 allows multiple submissions. However, if a submission has already bee
 
 #### Submission procedure and templates
 
-Please submit short and long papers directly via START by the submission deadline, 10 July 2023: <https://softconf.com/ranlp23/HumEval/\>
+Please submit short and long papers directly via START by the submission deadline, 10 July 2023: <https://softconf.com/ranlp23/HumEval/>
 
 #### Optional Supplementary Materials: Appendices, Software and Data
 
