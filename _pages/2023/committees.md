@@ -31,7 +31,7 @@ window.addEventListener("load", init, false);
 Anya Belz, ADAPT Centre, Dublin City University, Ireland \
 Maja Popović, ADAPT Centre, Dublin City University, Ireland \
 Ehud Reiter, University of Aberdeen, UK \
-João Sedoc, New-York University, US \ 
+João Sedoc, New-York University, US \
 Craig Thomson, University of Aberdeen, UK
 
 
