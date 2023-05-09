@@ -69,6 +69,8 @@ HumEval'23 allows multiple submissions. However, if a submission has already bee
 
 Please submit short and long papers directly via START by the submission deadline, 10 July 2023: <https://softconf.com/ranlp23/HumEval/>
 
+Please follow the submission guidelines issued by RANLP 2023: <http://ranlp.org/ranlp2023/index.php/submissions/>
+
 #### Optional Supplementary Materials: Appendices, Software and Data
 
 Additionally, supplementary materials can be added in an appendix. If you wish to make available software and data to accompany the paper, please indicate this in the paper, but for the submission fully anonymise all links.
