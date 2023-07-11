@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "HumEval at RANLP 2023<br/> Varna, Bulgaria, 7 or 8 September, 2023"
+excerpt: "HumEval at RANLP 2023<br/> Varna, Bulgaria, 7 September, 2023"
 layout: single
 classes: wide
 header:
@@ -15,7 +15,8 @@ header:
 ## News
 
 **1 March**: The third edition of HumEval will be held at [RANLP 2023](https://ranlp.org/ranlp2023/)! \
-**1 May**: Call for Papers published
+**1 May**: Call for Papers published \
+**10 July**: Workshop submission deadline extended to 20 July 2023
 
 ### Workshop Topic and Content
 
