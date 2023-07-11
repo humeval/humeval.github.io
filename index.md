@@ -16,6 +16,7 @@ header:
 
 **1 March**: The third edition of HumEval will be held at [RANLP 2023](https://ranlp.org/ranlp2023/)! \
 **1 May**: Call for Papers published \
+**15 June**: Elizabeth Clark, Google Research, confirmed as keynote speaker \
 **10 July**: Workshop submission deadline extended to 20 July 2023
 
 ### Workshop Topic and Content
