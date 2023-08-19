@@ -17,7 +17,16 @@ header:
 **1 March**: The third edition of HumEval will be held at [RANLP 2023](https://ranlp.org/ranlp2023/)! \
 **1 May**: Call for Papers published \
 **15 June**: Elizabeth Clark, Google Research, confirmed as keynote speaker \
-**10 July**: Workshop submission deadline extended to 20 July 2023
+**10 July**: Workshop submission deadline extended to 20 July 2023 \
+**12 August**: Invited Talk details available
+
+### Invited Speaker: Elizabeth Clark, Google Research
+
+**Title**: The importance (and challenges) of collecting human evaluations for better NLG metrics
+
+**Abstract**: Human evaluations can be used to develop better automatic metrics, both as training data and as meta-evaluation benchmarks for proposed metrics. To support the development of summarization metrics, we released Seahorse, a dataset of 96K multilingual, multifaceted human ratings of summaries. I will describe the dataset and demonstrate how it can be used to train and evaluate summarization metrics. I will then discuss challenges in collecting human evaluations and suggest directions for improving them, especially given the capabilities of today’s NLG models.
+
+**Bio**: Elizabeth Clark is a research scientist at Google DeepMind in New York. She works on problems in natural language generation and automatic and human evaluation. She received her PhD from the University of Washington, where she worked on models and evaluation for human-machine collaborative writing.
 
 ### Workshop Topic and Content
 
