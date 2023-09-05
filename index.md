@@ -25,6 +25,8 @@ header:
 
 ### Workshop Schedule
 
+*Please note that there may be very minor differences between the paper versions linked here and what will be the final versions in the proceedings.*
+
 **0930-0940: Welcome [chair: Maja Popovic]**
 
 **0940-1040: Evaluation Methods [chair: Irina Temnikova]** \
@@ -32,7 +34,7 @@ Linda Wiechetek, Flammie Pirinen and Per Kummervold: [_A Manual Evaluation Metho
 Iva Bojic, Jessica Chen, Si Yuan Chang, Qi Chwen Ong, Shafiq Joty and Josip Car: [_Hierarchical Evaluation Framework: Best Practices for Human Evaluation_](papers/4_Paper.pdf) \
 Tomono Honda, Atsushi Fujita, Mayuka Yamamoto and Kyo Kageura: [_Designing a Metalanguage of Differences Between Translations: A Case Study for English-to-Japanese Translation_](papers/6_Paper.pdf) 
 
-**1040-1100: ReproNLP Summary [chair/presenter: Anya Belz]**
+**1040-1100: [ReproNLP Summary](papers/ReproNLP_Results_Report.pdf) [chair/presenter: Anya Belz]**
 
 **1100-1130: BREAK** 
 
