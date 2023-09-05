@@ -37,33 +37,33 @@ Tomono Honda, Atsushi Fujita, Mayuka Yamamoto and Kyo Kageura: [_Designing a Met
 **1100-1130: BREAK** 
 
 **1130-1300: ReproNLP Session 1 [chair: Anya Belz]** \
-Javier González Corbelle, Jose Alonso and Alberto Bugarín-Diz: _Some lessons learned reproducing human evaluation of a data-to-text system_ \
-Lewis Watson and Dimitra Gkatzia: _Unveiling NLG Human-Evaluation Reproducibility: Lessons Learned and Key Insights from Participating in the ReproNLP Challenge_  \
-Combined Q&A for reproduction studies of *Data-to-text Generation with Macro Planning A* 
+Javier González Corbelle, Jose Alonso and Alberto Bugarín-Diz: [_Some lessons learned reproducing human evaluation of a data-to-text system_](papers/15_Paper.pdf) \
+Lewis Watson and Dimitra Gkatzia: [_Unveiling NLG Human-Evaluation Reproducibility: Lessons Learned and Key Insights from Participating in the ReproNLP Challenge_](papers/21_Paper.pdf)  \
+Combined Q&A for reproduction studies of [*Data-to-text Generation with Macro Planning A*](https://aclanthology.org/2021.tacl-1.31/) 
 
-Emiel van Miltenburg, Anouck Braggaar, Nadine Braun, Debby Damen, Martijn Goudbeek, Chris van der Lee, Frédéric Tomas and Emiel Krahmer: _How reproducible is best-worst scaling for human evaluation? A reproduction of ‘Data-to-text Generation with Macro Planning’_ \
-Mohammad Arvan and Natalie Parde: _Human Evaluation Reproduction Report for Data-to-text Generation with Macro Planning_ \
-Combined Q&A for reproduction studies of *Data-to-text Generation with Macro Planning B* 
+Emiel van Miltenburg, Anouck Braggaar, Nadine Braun, Debby Damen, Martijn Goudbeek, Chris van der Lee, Frédéric Tomas and Emiel Krahmer: [_How reproducible is best-worst scaling for human evaluation? A reproduction of ‘Data-to-text Generation with Macro Planning’_](papers/11_Paper.pdf) \
+Mohammad Arvan and Natalie Parde: [_Human Evaluation Reproduction Report for Data-to-text Generation with Macro Planning_](papers/20_Paper.pdf) \
+Combined Q&A for reproduction studies of [*Data-to-text Generation with Macro Planning B*](https://aclanthology.org/2021.tacl-1.31/) 
 
-Takumi Ito, Qixiang Fang, Pablo Mosteiro, Albert Gatt and Kees van Deemter: _Challenges in Reproducing Human Evaluation Results for Role-Oriented Dialogue Summarization_ \
-Mingqi Gao, Jie Ruan and Xiaojun Wan:_ A Reproduction Study of the Human Evaluation of Role-Oriented Dialogue Summarization Models_ \
-Combined Q&A for reproduction studies of *Other roles matter! enhancing role-oriented dialogue summarization via role interactions* 
+Takumi Ito, Qixiang Fang, Pablo Mosteiro, Albert Gatt and Kees van Deemter: [_Challenges in Reproducing Human Evaluation Results for Role-Oriented Dialogue Summarization_](papers/14_Paper.pdf) \
+Mingqi Gao, Jie Ruan and Xiaojun Wan: [_A Reproduction Study of the Human Evaluation of Role-Oriented Dialogue Summarization Models_](papers/1_Paper.pdf) \
+Combined Q&A for reproduction studies of [*Other roles matter! enhancing role-oriented dialogue summarization via role interactions*](https://aclanthology.org/2022.acl-long.182/) 
 
 **1300-1430 LUNCH** 
 
 **1430-1600: ReproNLP Session 2 [chair: Ehud Reiter]** 
 
-Margot Mieskes and Jacob Georg Benz: h_da@ReproHum – Reproduction of Human Evaluation and Technical Pipeline \
-Manuela Hürlimann and Mark Cieliebak: Reproducing a Comparative Evaluation of German Text-to-Speech Systems \
-Combined Q&A for reproduction studies of *Language-Agnostic Meta- Learning for Low-Resource Text-to-Speech with Articulatory Features* 
+Margot Mieskes and Jacob Georg Benz: [_h_da@ReproHum – Reproduction of Human Evaluation and Technical Pipeline_](papers/12_Paper.pdf) \
+Manuela Hürlimann and Mark Cieliebak: [_Reproducing a Comparative Evaluation of German Text-to-Speech Systems_](papers/13_Paper.pdf) \
+Combined Q&A for reproduction studies of [*Language-Agnostic Meta-Learning for Low-Resource Text-to-Speech with Articulatory Features*](https://aclanthology.org/2022.acl-long.472/) 
 
-Ondrej Platek, Mateusz Lango and Ondrej Dusek: _With a Little Help from the Authors: Reproducing Human Evaluation of an MT Error Detector_ \
-Filip Klubička and John D. Kelleher: _HumEval’23 Reproduction Report for Paper 0040: Human Evaluation of Automatically Detected Over- and Undertranslations_ \
-Combined Q&A for reproduction studies of *As little as possible, as much as necessary: Detecting over- and undertranslations with contrastive conditioning* 
+Ondrej Platek, Mateusz Lango and Ondrej Dusek: [_With a Little Help from the Authors: Reproducing Human Evaluation of an MT Error Detector_](papers/16_Paper.pdf) \
+Filip Klubička and John D. Kelleher: [_HumEval’23 Reproduction Report for Paper 0040: Human Evaluation of Automatically Detected Over- and Undertranslations_](papers/18_Paper.pdf) \
+Combined Q&A for reproduction studies of [*As little as possible, as much as necessary: Detecting over- and undertranslations with contrastive conditioning*](https://aclanthology.org/2022.acl-short.53/)
 
-Yiru Li, Huiyuan Lai, Antonio Toral and Malvina Nissim: Same Trends, Different Answers: _Insights from a Replication Study of Human Plausibility Judgments on Narrative Continuations_ \
-Saad Mahamood: _Reproduction of Human Evaluations in: “It’s not Rocket Science: Interpreting Figurative Language in Narratives”_ \
-Combined Q&A for reproduction studies of *It’s not Rocket Science: Interpreting Figurative Language in Narratives* 
+Yiru Li, Huiyuan Lai, Antonio Toral and Malvina Nissim: [_Same Trends, Different Answers: Insights from a Replication Study of Human Plausibility Judgments on Narrative Continuations_](papers/17_Paper.pdf) \
+Saad Mahamood: [_Reproduction of Human Evaluations in: “It’s not Rocket Science: Interpreting Figurative Language in Narratives”_](papers/19_Paper.pdf) \
+Combined Q&A for reproduction studies of [*It’s not Rocket Science: Interpreting Figurative Language in Narratives* ](https://aclanthology.org/2022.tacl-1.34/)
 
 **1600-1630: BREAK** 
 
