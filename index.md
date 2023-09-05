@@ -28,9 +28,9 @@ header:
 **0930-0940: Welcome [chair: Anya Belz]**
 
 **0940-1040: Evaluation Methods [chair: Maja Popovic]** \
-Linda Wiechetek, Flammie Pirinen and Per Kummervold: _A Manual Evaluation Method of Neural MT for Indigenous Languages_ \
-Iva Bojic, Jessica Chen, Si Yuan Chang, Qi Chwen Ong, Shafiq Joty and Josip Car: _Hierarchical Evaluation Framework: Best Practices for Human Evaluation_ \
-Tomono Honda, Atsushi Fujita, Mayuka Yamamoto and Kyo Kageura: _Designing a Metalanguage of Differences Between Translations: A Case Study for English-to-Japanese Translation_ 
+Linda Wiechetek, Flammie Pirinen and Per Kummervold: [_A Manual Evaluation Method of Neural MT for Indigenous Languages_](papers/2_Paper.pdf) \
+Iva Bojic, Jessica Chen, Si Yuan Chang, Qi Chwen Ong, Shafiq Joty and Josip Car: [_Hierarchical Evaluation Framework: Best Practices for Human Evaluation_](papers/4_Paper.pdf) \
+Tomono Honda, Atsushi Fujita, Mayuka Yamamoto and Kyo Kageura: [_Designing a Metalanguage of Differences Between Translations: A Case Study for English-to-Japanese Translation_](papers/6_Paper.pdf) 
 
 **1040-1100: ReproNLP Summary [chair/presenter: Anya Belz]**
 
