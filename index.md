@@ -23,7 +23,7 @@ header:
 
 ----
 
-### Workshop Schedule
+### Workshop Schedule (all times local Varna time)
 
 *Please note that there may be very minor differences between the paper versions linked here and what will be the final versions in the proceedings.*
 
