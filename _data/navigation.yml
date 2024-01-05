@@ -1,14 +1,14 @@
 main:
-  <!--- - title: "Calls"
-    url: /2024/call-for-papers/ --->
-   <!--- - title: "Important Dates"
-    url: /2024/dates/ --->
+  - title: "Calls"
+    url: /2024/call-for-papers/
+  - title: "Important Dates"
+    url: /2024/dates/
   - title: "Committees"
     url: /2024/committees/
-   <!--- - title: "Contact"
-    url: /2024/contact/ --->
-   <!--- - title: "Submission"
-    url: /2024/submissions/    --->
+  - title: "Contact"
+    url: /2024/contact/
+  - title: "Submission"
+    url: /2024/submissions/
   - title: "HumEval 2021"
     url: /2021/
   - title: "HumEval 2022"
