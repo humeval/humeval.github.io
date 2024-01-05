@@ -20,10 +20,10 @@ header:
 
 ----
 
-<!--- ### Workshop Schedule (all times local Turin time) --->
+<!--- ### Workshop Schedule (all times local Turin time) 
 
 
------
+----- --->
 
 ### Invited Speakers: Mark Diaz, Google Research, and Sheila Castilho, ADAPT/DCU
 
