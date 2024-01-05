@@ -32,7 +32,7 @@ Simone Balloccu, Karls University, Czech Republic \
 Anya Belz, ADAPT Centre, Dublin City University, Ireland \
 Rudali Huidrom, ADAPT Centre, Dublin City University, Ireland \
 Ehud Reiter, University of Aberdeen, UK \
-João Sedoc, New-York University, US \
+João Sedoc, New York University, US \
 Craig Thomson, University of Aberdeen, UK
 
 
