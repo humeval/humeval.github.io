@@ -69,4 +69,4 @@ Yanran Chen, Bielefeld University, DE\
 Lewis Watson, Edinburgh Napier University, UK\
 Dirk Hovy, Bocconi University, IT\
 Hürlimann Manuela, Zurich University of Applied Sciences, CH\
-Javier González Corbelle, University of Santiago de Compostela, ES\
+Javier González Corbelle, University of Santiago de Compostela, ES
