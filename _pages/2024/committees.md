@@ -9,19 +9,6 @@ header:
   overlay_image: /assets/images/banner.jpg
 ---
 
-<style>.athere:before {content: '@'; }</style>
-<script type="text/javascript">
-function init(){
-    var x = document.getElementsByClassName('contactaddr');
-    for (var i = 0; i < x.length; i++){
-        var sp = x[i];
-        var mt = sp.innerHTML;
-        mt = mt.replace(/<span.*\/span>/, '@');
-        sp.innerHTML = '<a href="mailto:' + mt + '">' + mt + '</a>';
-    }
-}
-window.addEventListener("load", init, false);
-</script>
 
 ## Workshop on Human Evaluation of NLP Systems
 
