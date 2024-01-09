@@ -51,7 +51,6 @@ The third ReproNLP Shared Task on Reproduction of Automatic and Human Evaluation
 * Workshop paper submission deadline: **11 March 2024**
 * Workshop paper acceptance notification: **4 April 2024**
 * Workshop paper camera-ready versions: **19 April 2024**
-* Workshop camera-ready proceedings ready: **29 April 2024**
 * HumEval 2024: **21 May 2024**
 * LREC-COLING 2024 conference: **20–25 May 2024**
 
