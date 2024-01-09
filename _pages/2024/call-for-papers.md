@@ -48,12 +48,12 @@ Mark Diaz, Google Research, US
 The third ReproNLP Shared Task on Reproduction of Automatic and Human Evaluations of NLP Systems will be part of HumEval, offering (A) an Open Track for any reproduction studies involving human evaluation of NLP systems; and (B) the ReproHum Track where participants will reproduce the papers currently being reproduced by partner labs in the EPSRC ReproHum project. A separate call will be issued for ReproNLP 2024.
 
 ### Important dates 
-* Workshop paper submission deadline: **March 11** \
-* Workshop paper acceptance notification: **Apr 4** \
-* Workshop paper camera-ready versions: **Apr 19** \
-* Workshop camera-ready proceedings ready: **May 21** \
-* HumEval 2024: **21 May 2024** \
-* LREC-COLING 2024 conference: **20–25 May 2024** \
+* Workshop paper submission deadline: **March 11**
+* Workshop paper acceptance notification: **Apr 4**
+* Workshop paper camera-ready versions: **Apr 19**
+* Workshop camera-ready proceedings ready: **May 21**
+* HumEval 2024: **21 May 2024**
+* LREC-COLING 2024 conference: **20–25 May 2024**
 
 All deadlines are 23:59 UTC-12.
   
@@ -80,7 +80,7 @@ Rudali Huidrom, Dublin City University, Ireland \
 Ehud Reiter, University of Aberdeen, UK \
 João Sedoc, New-York University \
 Craig Thomson, University of Aberdeen, UK \
-For questions and comments regarding the workshop please contact the organisers at [humeval.ws@gmail.com](humeval.ws@gmail.com). \
+For questions and comments regarding the workshop please contact the organisers at [humeval.ws@gmail.com](humeval.ws@gmail.com).
 
 ### Programme committee
 Albert Gatt, Utrecht University, NL \
@@ -124,7 +124,7 @@ Yanran Chen, Bielefeld University, DE \
 Lewis Watson, Edinburgh Napier University, UK \
 Dirk Hovy, Bocconi University, IT \
 Hürlimann Manuela, Zurich University of Applied Sciences, CH \
-Javier González Corbelle, University of Santiago de Compostela, ES \
+Javier González Corbelle, University of Santiago de Compostela, ES
 
 
 
