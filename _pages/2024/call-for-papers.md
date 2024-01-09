@@ -48,12 +48,12 @@ Mark Diaz, Google Research, US
 The third ReproNLP Shared Task on Reproduction of Automatic and Human Evaluations of NLP Systems will be part of HumEval, offering (A) an Open Track for any reproduction studies involving human evaluation of NLP systems; and (B) the ReproHum Track where participants will reproduce the papers currently being reproduced by partner labs in the EPSRC ReproHum project. A separate call will be issued for ReproNLP 2024.
 
 ### Important dates 
-Workshop paper submission deadline: March 11 \
-Workshop paper acceptance notification: Apr 4 \
-Workshop paper camera-ready versions: Apr 19 \
-Workshop camera-ready proceedings ready: May 21 \
-HumEval 2024: 21 May 2024 \
-LREC-COLING 2024 conference: 20–25 May 2024 \
+Workshop paper submission deadline: **March 11** \
+Workshop paper acceptance notification: **Apr 4** \
+Workshop paper camera-ready versions: **Apr 19** \
+Workshop camera-ready proceedings ready: **May 21** \
+HumEval 2024: **21 May 2024** \
+LREC-COLING 2024 conference: **20–25 May 2024** \
 All deadlines are 23:59 UTC-12.
   
 ### Submission
@@ -65,9 +65,9 @@ Short paper submissions must describe original and unpublished work. Examples of
 #### Multiple submission policy
 HumEval’24 allows multiple submissions. However, if a submission has already been, or is planned to be, submitted to another event, this must be clearly stated in the submission form.
 
-#### Submission procedure and templates
-Please submit short and long papers directly via START by the submission deadline: [LINK] 
-Please follow the submission guidelines issued by LREC-COLING 2024: https://lrec-coling-2024.org/2nd-call-for-papers/
+#### Submission procedure and templates
+Please submit short and long papers directly [via START by the submission deadline.](https://softconf.com/lrec-coling2024/humeval2024) \
+Please follow the [submission guidelines issued by LREC-COLING 2024.](https://lrec-coling-2024.org/2nd-call-for-papers/)
 
 #### Optional Supplementary Materials: Appendices, Software and Data
 Additionally, supplementary materials can be added in an appendix. If you wish to make available software and data to accompany the paper, please indicate this in the paper, but for the submission fully anonymise all links.
@@ -79,7 +79,7 @@ Rudali Huidrom, Dublin City University, Ireland \
 Ehud Reiter, University of Aberdeen, UK \
 João Sedoc, New-York University \
 Craig Thomson, University of Aberdeen, UK \
-For questions and comments regarding the workshop please contact the organisers at humeval.ws@gmail.com. \
+For questions and comments regarding the workshop please contact the organisers at [humeval.ws@gmail.com](humeval.ws@gmail.com). \
 
 ### Programme committee
 Albert Gatt, Utrecht University, NL \
