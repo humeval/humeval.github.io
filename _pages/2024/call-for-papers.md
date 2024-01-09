@@ -135,4 +135,4 @@ Zola Mahlaza, University of Cape Town, SA \
 Toky Raboanary, University of Cape Town, SA \
 Mateusz Lango, Karls University, CZ \
 Patricia Schmidtova, Karls University, CZ \
-Anouck Braggaar, Tilburg University, NL \
+Anouck Braggaar, Tilburg University, NL
