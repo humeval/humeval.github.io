@@ -14,8 +14,8 @@ header:
 ### Programme
 All timings are in UTC+2 (Turin, Italy).
 
-| Time <img width=200/>| Event                    |
-| ------------- | ------------------------------------ |
+| Time                     | Event                    |
+| ------------------------ | ------------------------------------ |
 | 09:00–09:10 | **Workshop Introduction** |
 | 09:10–10:30 | **Oral Session 1** |
 | 09:10–09:30 | Quality and Quantity of Machine Translation References for Automatic Metrics <br> *Vilém Zouhar and Ondřej Bojar*    |
