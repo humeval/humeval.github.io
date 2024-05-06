@@ -14,7 +14,7 @@ header:
 ### Programme
 All timings are in UTC+2 (Turin, Italy).
 
-| Time          | Event                                |
+| Time &nbsp; &nbsp; &nbsp; | Event                    |
 | ------------- | ------------------------------------ |
 | 09:00–09:10 | **Workshop Introduction** |
 | 09:10–10:30 | **Oral Session 1** |
