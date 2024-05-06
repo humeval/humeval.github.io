@@ -20,8 +20,7 @@ Rudali Huidrom, Dublin City University, Ireland \
 Ehud Reiter, University of Aberdeen, UK \
 João Sedoc, New-York University \
 Craig Thomson, University of Aberdeen, UK \
-For questions and comments regarding the workshop please contact Simone Balloccu at [balloccu@ufal.mff.cuni.cz](mailto:balloccu@ufal.mff.cuni.cz). \
-Alternatively, you can contact the organisers at [humeval.ws@gmail.com](mailto:humeval.ws@gmail.com).
+For questions and comments regarding the workshop please contact the organisers at [balloccu@ufal.mff.cuni.cz](mailto:balloccu@ufal.mff.cuni.cz) and [humeval.ws@gmail.com](mailto:humeval.ws@gmail.com).
 
 ### Programme committee
 Albert Gatt, Utrecht University, NL \
