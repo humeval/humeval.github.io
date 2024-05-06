@@ -7,6 +7,8 @@ main:
     url: /2024/contact/
   - title: "Submission"
     url: /2024/submissions/
+  - title: "Programme"
+    url: /2024/programme/
   - title: "HumEval 2021"
     url: /2021/
   - title: "HumEval 2022"
