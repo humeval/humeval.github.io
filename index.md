@@ -14,7 +14,7 @@ header:
 
 ## News
 
-* **05 May**: The workshop [the organisers](/2024/programme) is online!
+* **05 May**: The workshop [programme](/2024/programme) is online!
 * **15 Nov**: The fourth edition of HumEval will be held at [LREC-COLING 2024](https://lrec-coling-2024.org/)! 
 * **1 Dec**: Mark Diaz, Google Research, and Sheila Castilho, ADAPT/DCU confirmed as keynote speakers! 
 * **8 Jan**: Call for Papers published 
