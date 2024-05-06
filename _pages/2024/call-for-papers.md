@@ -73,13 +73,13 @@ Please follow the [submission guidelines issued by LREC-COLING 2024.](https://lr
 Additionally, supplementary materials can be added in an appendix. If you wish to make available software and data to accompany the paper, please indicate this in the paper, but for the submission fully anonymise all links.
 
 ### Organisers
-Simone Balloccu, Karls University, CZ \
+Simone Balloccu, Charles University, CZ \
 Anya Belz, ADAPT Centre, Dublin City University, Ireland \
 Rudali Huidrom, Dublin City University, Ireland \
 Ehud Reiter, University of Aberdeen, UK \
 João Sedoc, New-York University \
 Craig Thomson, University of Aberdeen, UK \
-For questions and comments regarding the workshop please contact the organisers at [humeval.ws@gmail.com](mailto:humeval.ws@gmail.com).
+For questions and comments regarding the workshop please contact the organisers at [balloccu@ufal.mff.cuni.cz](mailto:balloccu@ufal.mff.cuni.cz) and [humeval.ws@gmail.com](mailto:humeval.ws@gmail.com).
 
 ### Programme committee
 Albert Gatt, Utrecht University, NL \
