@@ -9,5 +9,4 @@ header:
   overlay_image: /assets/images/banner_new.jpg
 ---
 
-
-For questions and comments regarding the workshop please contact [the organisers](/2024/committees) at <span class="contactaddr">humeval.ws<span class="athere"></span>gmail.com</span>. 
+For questions and comments regarding the workshop please contact [the organisers](/2024/committees) at [balloccu@ufal.mff.cuni.cz](mailto:balloccu@ufal.mff.cuni.cz) and [humeval.ws@gmail.com](mailto:humeval.ws@gmail.com).
