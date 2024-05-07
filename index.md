@@ -24,7 +24,7 @@ header:
 ### Invited Speakers
 
 
-|![Margaret Mitchell](/assets/images/Mark J Díaz - fit.png) | ![Lucia Specia](/assets/images/Sheila Castilho - fit.png) |
+|<img src="/assets/images/Mark J Díaz - fit.png" width="1500px" height="2100px"> | <img src="/assets/images/Sheila Castilho - fit.png" width="1500px" height="2100px"> |
 |:-------------------------------------------------:|:------------------------------------------:|
 |Mark Diaz, Google Research                               | Sheila Castilho, ADAPT/DCU      |
 
