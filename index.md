@@ -21,11 +21,12 @@ header:
 
 ----
 
+### Invited Speakers
 
 
-### Invited Speakers: Mark Diaz, Google Research, and Sheila Castilho, ADAPT/DCU
-
-
+|![Margaret Mitchell](/assets/images/Mark J Díaz - fit.png) | ![Lucia Specia](/assets/images/Sheila Castilho - fit.png) |
+|:-------------------------------------------------:|:------------------------------------------:|
+|Mark Diaz, Google Research                               | Sheila Castilho, ADAPT/DCU      |
 
 -----
 
