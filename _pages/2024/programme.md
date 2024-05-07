@@ -38,7 +38,7 @@ All timings are in UTC+2 (Turin, Italy).
 | 14:15–14:30 | Extrinsic evaluation of question generation methods with user journey logs <br> *Elie Antoine, Eléonore Besnehard, Frederic Bechet, Geraldine Damnati, eric kergosien and Arnaud Laborderie*    |
 | 14:30–14:45 | Towards Holistic Human Evaluation of Automatic Text Simplification <br> *Luisa Carrer, Andreas Säuberli, Martin Kappus and Sarah Ebling*    |
 | 14:45–16:00 | **ReproNLP Session 2** |
-| 14:45–14:51 | ReproHum #1018-09: Reproducing Human Evaluations of Redundancy Errors in Data-To-Text Systems <br> *Filip Klubička and John D. Kelleher *    |
+| 14:45–14:51 | ReproHum #1018-09: Reproducing Human Evaluations of Redundancy Errors in Data-To-Text Systems <br> *Filip Klubička and John D. Kelleher*    |
 | 14:51–14:57 | ReproHum #0892-01: The painful route to consistent results: A reproduction study of human evaluation in NLG <br> *Irene Mondella, Huiyuan Lai and Malvina Nissim*    |
 | 14:57–15:03 | ReproHum #0866-04: Another Evaluation of Readers' Reactions to News Headlines <br> *Zola Mahlaza, Toky Hajatiana Raboanary, Kyle Seakgwa and C. Maria Keet*    |
 | 15:03–15:25 | ReproNLP Results Report |
