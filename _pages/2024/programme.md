@@ -35,7 +35,7 @@ All timings are in UTC+2 (Turin, Italy).
 | 13:00–14:00 | **Lunch** |
 | 14:00–14:45 | **Oral Session 2** |
 | 14:00–14:15 | Insights of a Usability Study for KBQA Interactive Semantic Parsing: Generation Yields Benefits over Templates but External Validity Remains Challenging <br> *Ashley Lewis, Lingbo Mo, Marie-Catherine de Marneffe, Huan Sun and Michael White*    |
-| 14:15–14:30 | Extrinsic evaluation of question generation methods with user journey logs <br> *Elie Antoine, Eléonore Besnehard, Frederic Bechet, Geraldine Damnati, eric kergosien and Arnaud Laborderie*    |
+| 14:15–14:30 | Extrinsic evaluation of question generation methods with user journey logs <br> *Elie Antoine, Eléonore Besnehard, Frederic Bechet, Geraldine Damnati, Eric Kergosien and Arnaud Laborderie*    |
 | 14:30–14:45 | Towards Holistic Human Evaluation of Automatic Text Simplification <br> *Luisa Carrer, Andreas Säuberli, Martin Kappus and Sarah Ebling*    |
 | 14:45–16:00 | **ReproNLP Session 2** |
 | 14:45–14:51 | ReproHum #1018-09: Reproducing Human Evaluations of Redundancy Errors in Data-To-Text Systems <br> *Filip Klubička and John D. Kelleher*    |
