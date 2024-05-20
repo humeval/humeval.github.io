@@ -15,7 +15,7 @@ header:
 <br/> Vilém Zouhar and Ondřej Bojar 
 
 * [Exploratory Study on the Impact of English Bias of Generative Large Language Models in Dutch and
-French] (https://humeval.github.io/papers/2024.humeval-1.2.pdf)
+French](https://humeval.github.io/papers/2024.humeval-1.2.pdf)
 <br/>
 Ayla Rigouts Terryn and Miryam de Lhoneux 
 
