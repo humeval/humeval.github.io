@@ -24,9 +24,9 @@ header:
 ### Invited Speakers
 
 
-|![Mark J Díaz](/assets/images/Ding Wang - small.png) |![Margaret Mitchell](/assets/images/Sheila Castilho - small.png) |
+|![Mark J Díaz](/assets/images/Mark J Díaz - small.png) |![Margaret Mitchell](/assets/images/Sheila Castilho - small.png) |
 |:-------------------------------------------------:|:------------------------------------------:|
-|Ding Wang, Google Research                               | Sheila Castilho, ADAPT/DCU      |
+|Mark J Díaz, Google Research                               | Sheila Castilho, ADAPT/DCU      |
 
 -----
 
