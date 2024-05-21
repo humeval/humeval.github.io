@@ -31,7 +31,7 @@ All timings are in UTC+2 (Turin, Italy).
 | 12:15–12:25 | ReproHum #0043-04 (paired):<br>Evaluating Summarization Models: investigating the impact of education and language proficiency on reproducibility<br>*Mateusz Lango, Patricia Schmidtova, Simone Balloccu and Ondrej Dusek*<br><br>Human Evaluation Reproducing Language Model as an Annotator: Exploring Dialogue Summarization on AMI Dataset<br>*Vivian Fresen, Mei-Shin Wu-Urbanek and Steffen Eger*   |
 | 12:25–12:35 | ReproHum #0087-01 (paired):<br>Human Evaluation Reproduction Report for Generating Fact Checking Explanations<br>*Tyler Loakman and Chenghua Lin*<br><br>A Reproduction Study of the Human Evaluation of the Coverage of Fact Checking Explanations<br>*Mingqi Gao, Jie Ruan and Xiaojun Wan*   |
 | 12:35–12:45 | ReproHum #0033-03 (paired):<br>How Reproducible Are Fluency Ratings of Generated Text? A Reproduction of August et al. 2022<br>*Emiel van Miltenburg, Anouck Braggaar, Nadine Braun, Martijn Goudbeek, Emiel Krahmer, Chris van der Lee, Steffen Pauws and Frédéric Tomas*<br><br>Comparable Relative Results with Lower Absolute Values in a Reproduction Study<br>*Yiru Li, Huiyuan Lai, Antonio Toral and Malvina Nissim*   |
-| 12:45–12:51 | ReproHum #0124-03: Reproducing Human Evaluations of end-to-end approaches for Referring Expression Generation  <br> *Saad Mahamood*    | 
+| 12:45–12:51 | **(virtual)** ReproHum #0124-03: Reproducing Human Evaluations of end-to-end approaches for Referring Expression Generation  <br> *Saad Mahamood*    | 
 | 13:00–14:00 | **Lunch** |
 | 14:00–14:45 | **Oral Session 2** |
 | 14:00–14:15 | Insights of a Usability Study for KBQA Interactive Semantic Parsing: Generation Yields Benefits over Templates but External Validity Remains Challenging <br> *Ashley Lewis, Lingbo Mo, Marie-Catherine de Marneffe, Huan Sun and Michael White*    |
@@ -39,7 +39,7 @@ All timings are in UTC+2 (Turin, Italy).
 | 14:30–14:45 | Towards Holistic Human Evaluation of Automatic Text Simplification <br> *Luisa Carrer, Andreas Säuberli, Martin Kappus and Sarah Ebling*    |
 | 14:45–16:00 | **ReproNLP Session 2** |
 | 14:45–14:51 | ReproHum #1018-09: Reproducing Human Evaluations of Redundancy Errors in Data-To-Text Systems <br> *Filip Klubička and John D. Kelleher*    |
-| 14:51–14:57 | ReproHum #0892-01: The painful route to consistent results: A reproduction study of human evaluation in NLG <br> *Irene Mondella, Huiyuan Lai and Malvina Nissim*    |
+| 14:51–14:57 |  **(virtual)** ReproHum #0892-01: The painful route to consistent results: A reproduction study of human evaluation in NLG <br> *Irene Mondella, Huiyuan Lai and Malvina Nissim*    |
 | 14:57–15:03 | ReproHum #0866-04: Another Evaluation of Readers' Reactions to News Headlines <br> *Zola Mahlaza, Toky Hajatiana Raboanary, Kyle Seakgwa and C. Maria Keet*    |
 | 15:03–15:25 | ReproNLP Results Report |
 | 15:25–16:00 | **ReproNLP and HumEval poster session** |
